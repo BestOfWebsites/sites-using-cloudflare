@@ -65,1298 +65,1297 @@ There are several tools out there to search the list, I wont endorse any here du
 
 Notable Sites :
 
-
-#https://authy.com (no leaked data found in several search engine caches)
-#https://coinbase.com
-#https://bitcoin.de
-#https://betterment.com
-#https://prosper.com
-#https://patreon.com
-#https://bitpay.com
-#https://news.ycombinator.com
-#https://producthunt.com
-#https://medium.com
-#https://4chan.org
-#https://yelp.com
-#https://okcupid.com
-#https://zendesk.com (Zendesk post and updates | no leaked data found)
-#https://uber.com
-#https://poloniex.com
-#https://localbitcoins.com
-#https://kraken.com
-#https://23andme.com
-#https://curse.com (and some other Curse sites like minecraftforum.net)
-#https://counsyl.com
-#https://tfl.gov.uk
-#https://myaccount.nytimes.com
-#https://technicpack.net
-#https://cloudflare.com
-#https://blockchain.info
-#https://discordapp.com (affected)
-#https://digitalocean.com (no leaked data found in several search engine caches)
-#https://namecheap.com (no leaked data found in several search engine caches)
-#https://glassdoor.com (no leaked data found in several search engine caches)
-#https://transferwise.com (no leaked data found in several search engine caches
-#https://vultr.com (no leaked data found in several search engine caches)
-#https://fastmail.com (not affected, #2)
-#https://1password.com (not affected)
-#https://Alexa Top 10,000 on Cloudflare DNS:
-#https://upwork.com
-#https://codepen.io
-#https://fiverr.com
-#https://thepiratebay.org
-#https://extratorrent.com
-#https://getbootstrap.com
-#https://jquery.com
-#https://laravel.com
-#https://laracasts.com
-#https://seriouseats.com
-#https://bitdefender.com
-#https://ziprecruiter.com (no leaked data found in several search engine caches)
-#https://glassdoor.com
-#https://pastebin.com
-#https://fitbit.com
-#https://discordapp.com
-#https://change.org
-#https://feedly.com (affected)
-#https://irccloud.com
-#https://000webhost.com
-#https://1001freefonts.com
-#https://101greatgoals.com
-#https://10minutemail.com
-#https://123telugu.com
-#https://1hhhh.net
-#https://1jux.net
-#https://1news.az
-#https://1sale.com
-#https://1stwebdesigner.com
-#https://24horas.cl
-#https://24sata.hr
-#https://2ch-c.net
-#https://2ch.hk
-#https://2ch.net
-#https://2ip.ru
-#https://3bmeteo.com
-#https://4chan.org
-#https://4dsply.com
-#https://4pda.ru
-#https://4tube.com
-#https://5giay.vn
-#https://800notes.com
-#https://96down.com
-#https://abidjan.net
-#https://abs-cbnnews.com
-#https://adafruit.com
-#https://add-anime.net
-#https://addicted2success.com
-#https://addictinginfo.org
-#https://addmefast.com
-#https://addtoany.com
-#https://adf.ly
-#https://adfoc.us
-#https://ads-id.com
-#https://adult-empire.com
-#https://advfn.com
-#https://adxpansion.com
-#https://wohotv.com
-#https://cookedrecipe.com
-#https://puntacan.com
-#https://docfinderus.com
-#https://doctorfinder.us
-#https://ares.fun
-#https://aftabir.com
-#https://agilebits.com
-#https://ahlamontada.com
-#https://ahlynews.com
-#https://ahnegao.com.br
-#https://aitnews.com
-#https://aksam.com.tr
-#https://aktifhaber.com
-#https://al-akhbar.com
-#https://aleqt.com
-#https://alexaboostup.com
-#https://alfajertv.com
-#https://alfavita.gr
-#https://alhilal.com
-#https://alison.com
-#https://alistapart.com
-#https://aljaras.com
-#https://allanalpass.com
-#https://all.biz
-#https://allkpop.com
-#https://allmyvideos.net
-#https://alltop.com
-#https://almaany.com
-#https://almasryalyoum.com
-#https://almesryoon.com
-#https://alnaharegypt.com
-#https://alphacoders.com
-#https://alrakoba.net
-#https://alternativeto.net
-#https://alternet.org
-#https://alwafd.org
-#https://alwatanvoice.com
-#https://alweeam.com.sa
-#https://amadershomoybd.com
-#https://amarujala.com
-#https://amino.dk
-#https://anandabazar.com
-#https://androidauthority.com
-#https://androidcentral.com
-#https://androidpolice.com
-#https://angloinfo.com
-#https://anime44.com
-#https://animeflv.net
-#https://animeid.tv
-#https://animenewsnetwork.com
-#https://anipo.jp
-#https://anitube.se
-#https://ann.az
-#https://annunci69.it
-#https://antarvasna.com
-#https://antena3.ro
-#https://antyweb.pl
-#https://any.gs
-#https://ap7am.com
-#https://apherald.com
-#https://apne.tv
-#https://aporrea.org
-#https://appadvice.com
-#https://appbrain.com
-#https://appstorm.net
-#https://arabsh.com
-#https://archive.is
-#https://argentinawarez.com
-#https://arioo.com
-#https://aristeguinoticias.com
-#https://armorgames.com
-#https://arouraios.gr
-#https://articlesnatch.com
-#https://ashleymadison.com
-#https://ashleyrnadison.com
-#https://atlas.sk
-#https://attracta.com
-#https://atwiki.jp
-#https://authorstream.com
-#https://avaaz.org
-#https://avaz.ba
-#https://avazutracking.net
-#https://avito.ma
-#https://avito.ru (confirmed by @toogle from Avito.ru as not affected)
-#https://avn.info.ve
-#https://azertag.com
-#https://aznews.az
-#https://azyya.com
-#https://b1.org
-#https://bab.la
-#https://babyoye.com
-#https://backlinks.com
-#https://bakufu.jp
-#https://bancdebinary.com
-#https://banglanews24.com
-#https://barstoolsports.com
-#https://bbspink.com
-#https://bc.vc
-#https://bdr130.net
-#https://beeg.com
-#https://behindwoods.com
-#https://belboon.com
-#https://bestblackhatforum.com
-#https://bezaat.com
-#https://bicaps.com
-#https://bigrock.in
-#https://bikroy.com
-#https://billiger.de
-#https://billionuploads.com
-#https://binaryoptionsnewbies.com
-#https://binsearch.info
-#https://bitcoincharts.com
-#https://bitshare.com
-#https://bitsnoop.com
-#https://bizsugar.com
-#https://blackhatteam.com
-#https://blackhatworld.com
-#https://blankrefer.com
-#https://bleepingcomputer.com
-#https://blekko.com
-#https://blinklist.com
-#https://blip.tv
-#https://blockchain.info
-#https://blogcatalog.com
-#https://blogfa.com
-#https://blogs.com
-#https://boards.ie
-#https://boo-box.com
-#https://boxden.com
-#https://boxingscene.com
-#https://brainpickings.org
-#https://brainyquote.com
-#https://brandyourself.com
-#https://brasil247.com
-#https://briian.com
-#https://broadwayworld.com
-#https://bronto.com
-#https://brooonzyah.net
-#https://brusheezy.com
-#https://btc-e.com
-#https://bubblews.com
-#https://bufferapp.com
-#https://bukkit.org
-#https://burbuja.info
-#https://burnews.com
-#https://business2blogger.com
-#https://businessforhome.org
-#https://buzztheme.net
-#https://camplace.com
-#https://cancan.ro
-#https://careers360.com
-#https://car.gr
-#https://catracalivre.com.br
-#https://cbox.ws
-#https://cda.pl
-#https://ce4arab.com
-#https://celebuzz.com
-#https://charter97.org
-#https://chatrandom.com
-#https://cheathappens.com
-#https://chinavasion.com
-#https://chomikuj.pl
-#https://christian-dogma.com
-#https://cima4u.com
-#https://ciudad.com.ar
-#https://ck101.com
-#https://clasicooo.com
-#https://classifiedads.com
-#https://cleanfiles.net
-#https://clickbank.com
-#https://clickbank.net
-#https://clip.vn
-#https://clixsense.com
-#https://cloudflare.com
-#https://clubedohardware.com.br
-#https://cmse.ru
-#https://codepen.io
-#https://codeschool.com
-#https://coinbase.com
-#https://col3negoriginal.lk
-#https://colourlovers.com
-#https://comicbookmovie.com
-#https://compucalitv.com
-#https://copacet.com
-#https://cpalead.com
-#https://cpasbien.com
-#https://cpasbien.me
-#https://crackberry.com
-#https://creativecommons.org
-#https://cricfree.tv
-#https://crictime.com
-#https://crocko.com
-#https://crosswalk.com
-#https://crunchbase.com
-#https://crunchyroll.com
-#https://cs-cart.com
-#https://cssdeck.com
-#https://cucirca.eu
-#https://curse.com
-#https://cyanogenmod.org
-#https://cyberchimps.com
-#https://cyberpresse.ca
-#https://dailycaller.com
-#https://daisycon.com
-#https://dangerousminds.net
-#https://dardarkom.com
-#https://dashnet.org
-#https://davidicke.com
-#https://davidwalsh.name
-#https://dawanda.com
-#https://dawn.com
-#https://de10.com.mx
-#https://deadline.com
-#https://defaultsear.ch
-#https://defencenet.gr
-#https://definebabe.com
-#https://demandforce.com
-#https://demotywatory.pl
-#https://deperu.com
-#https://desidime.com
-#https://designboom.com
-#https://designfloat.com
-#https://designtaxi.com
-#https://desirulez.net
-#https://desi-tashan.com
-#https://desitorrents.com
-#https://desmotivaciones.es
-#https://destructoid.com
-#https://deutsche-wirtschafts-nachrichten.de
-#https://dev-point.com
-#https://dhakatimes24.com
-#https://diariocontraste.com
-#https://diariodemorelos.com
-#https://diario.mx
-#https://diary.ru
-#https://dicelacancion.com
-#https://diffen.com
-#https://digikala.com
-#https://digitalocean.com
-#https://digital-photography-school.com
-#https://digitalpoint.com
-#https://discuss.com.hk
-#https://divxplanet.com
-#https://divxstage.eu
-#https://dizi-mag.com
-#https://djmaza.info
-#https://dlink.com
-#https://dl-protect.com
-#https://dnevnik.hr
-#https://doba.com
-#https://doisongphapluat.com
-#https://doityourself.com
-#https://doostiha.ir
-#https://dostor.org
-#https://dota2lounge.com
-#https://downloadatoz.com
-#https://downloadming.me
-#https://downloads.nl
-#https://dpstream.net
-#https://drakulastream.eu
-#https://dramasonline.com
-#https://dreamamateurs.com
-#https://dreamincode.net
-#https://dreamteammoney.com
-#https://dreamtemplate.com
-#https://droid-life.com
-#https://drudgereport.com
-#https://dryicons.com
-#https://dsdomination.com
-#https://duedil.com
-#https://dumpert.nl
-#https://dx.com
-#https://eatlocalgrown.com
-#https://ebs.in
-#https://e-cigarette-forum.com
-#https://econsultancy.com
-#https://edublogs.org
-#https://e-estekhdam.com
-#https://efukt.com
-#https://egaliteetreconciliation.fr
-#https://egyup.com
-#https://el-ahly.com
-#https://elance.com
-#https://el-balad.com
-#https://elbilad.net
-#https://elbotola.com
-#https://eldia.com.ar
-#https://elephantjournal.com
-#https://elespectador.com
-#https://elfagr.org
-#https://elheddaf.com
-#https://elitepvpers.com
-#https://elitetorrent.net
-#https://elkhabar.com
-#https://elpais.com.uy
-#https://elshaab.org
-#https://elwatannews.com
-#https://el-wlid.com
-#https://emailmeform.com
-#https://emoneyspace.com
-#https://e-monsite.com
-#https://encuentra24.com
-#https://englishforums.com
-#https://enjoydressup.com
-#https://enwdgts.com
-#https://epidemz.net
-#https://erepublik.com
-#https://ero-advertising.com
-#https://ethnos.gr
-#https://etxt.ru
-#https://excellentbux.net
-#https://expatriates.com
-#https://experts-exchange.com (no leaked data found in several search engine caches)
-#https://explosm.net
-#https://express.com.pk
-#https://express.pk
-#https://extabit.com
-#https://extratorrent.cc
-#https://extratorrent.com
-#https://eyny.com
-#https://ezilon.com
-#https://eztv.it
-#https://fabthemes.com
-#https://fakenamegenerator.com
-#https://fakku.net
-#https://fanpop.com
-#https://fansided.com
-#https://fansshare.com
-#https://fanswong.com
-#https://fantasy8.com
-#https://fap.to
-#https://fatakat.com
-#https://feedio.net
-#https://feedly.com
-#https://fenopy.se
-#https://ffffound.com
-#https://filecloud.io
-#https://filelist.ro
-#https://filenuke.com
-#https://filesfetcher.com
-#https://filgoal.com
-#https://filmey.com
-#https://filmifullizle.com
-#https://fishki.net
-#https://fiverr.com
-#https://fok.nl
-#https://fontspace.com
-#https://forbes.ru
-#https://forex4you.org
-#https://forexpeacearmy.com
-#https://forgifs.com
-#https://foro20.com
-#https://foroactivo.com
-#https://forobeta.com
-#https://forocoches.com
-#https://forosdelweb.com
-#https://forumactif.com
-#https://forumactif.org
-#https://forum.hr
-#https://forumophilia.com
-#https://forumotion.com
-#https://fotka.pl
-#https://fotolog.net
-#https://foundationapi.com
-#https://fragrantica.com
-#https://frandroid.com
-#https://freakshare.com
-#https://freekaamaal.com
-#https://freelanceswitch.com
-#https://freeonlinegames.com
-#https://freepatriot.org
-#https://freepornvs.com
-#https://free-press-release.com
-#https://free-tv-video-online.me
-#https://freewebs.com
-#https://freshdesignweb.com
-#https://fresherslive.com
-#https://frmtr.com
-#https://frombar.com
-#https://fsiblog.com
-#https://fssnet.co.in
-#https://fuckbooknet.net
-#https://fullhdfilmizle.org
-#https://fun698.com
-#https://funnyjunk.com
-#https://funnymama.com
-#https://fuskator.com
-#https://futhead.com
-#https://fux.com
-#https://gaaks.com
-#https://game321.com
-#https://gameblog.fr
-#https://game-debate.com
-#https://gamefront.com
-#https://gamer.com.tw
-#https://games.la
-#https://gamestorrents.com
-#https://gametracker.com
-#https://gamevicio.com
-#https://gamme.com.tw
-#https://geenstijl.nl
-#https://genteflow.com
-#https://geo.tv
-#https://getbootstrap.com
-#https://getcashforsurveys.com
-#https://getfireshot.com
-#https://getglue.com
-#https://gezginler.net
-#https://gezinti.com
-#https://gfxtra.com
-#https://gfy.com
-#https://ghanaweb.com
-#https://ghost.org
-#https://gigaom.com
-#https://gigporno.com
-#https://gistmania.com
-#https://glassdoor.com
-#https://globalewallet.com
-#https://globovision.com
-#https://gmane.org
-#https://godvine.com
-#https://gofuckbiz.com
-#https://gogoanime.com
-#https://goldesel.to
-#https://goldporntube.com
-#https://goldprice.org
-#https://gooddrama.net
-#https://good.is
-#https://goodsearch.com
-#https://gossiplankanews.com
-#https://gottabemobile.com
-#https://graaam.com
-#https://grasscity.com
-#https://greenwichmeantime.com
-#https://grindtv.com
-#https://gsmhosting.com
-#https://gsmspain.com
-#https://gtaforums.com
-#https://gulli.com
-#https://gun.az
-#https://gyazo.com
-#https://h2porn.com
-#https://hackforums.net
-#https://haivl.com
-#https://haivl.tv
-#https://hamariweb.com
-#https://hammihan.com
-#https://haqqin.az
-#https://hardsextube.com
-#https://hardwareluxx.de
-#https://hawamer.com
-#https://hawkhost.com
-#https://hayah.cc
-#https://healthkart.com
-#https://heavy-r.com
-#https://hespress.com
-#https://hibapress.com
-#https://hightrafficacademy.com
-#https://hihi2.com
-#https://hiphopdx.com
-#https://hir.ma
-#https://hitleap.com
-#https://hizliresim.com
-#https://hkgolden.com
-#https://hobbyking.com
-#https://hockeysfuture.com
-#https://holiday-weather.com
-#https://hostgator.com.br
-#https://hostgator.in
-#https://hostingflame.org
-#https://hotair.com
-#https://hotarabchat.com
-#https://hotfrog.com
-#https://hottube.me
-#https://hotukdeals.com
-#https://howtoforge.com
-#https://hubpages.com
-#https://hugedomains.com
-#https://hugefiles.net
-#https://humblebundle.com
-#https://humoron.com
-#https://hvg.hu
-#https://icefilms.info
-#https://iconarchive.com
-#https://identi.li
-#https://idlebrain.com
-#https://iitv.info
-#https://ijreview.com
-#https://ikman.lk
-#https://ilbe.com
-#https://ilyke.net
-#https://imagecurl.org
-#https://imageporter.com
-#https://imagetwist.com
-#https://imgchili.com
-#https://imgchili.net
-#https://imgdino.com
-#https://imgserve.net
-#https://imgtiger.com
-#https://imore.com
-#https://impiego24.it
-#https://inbound.org
-#https://index.hr
-#https://index-of-mp3s.com
-#https://india-forums.com
-#https://indiafreestuff.in
-#https://indiangilma.com
-#https://indianpornvideos.com
-#https://indiansexstories.net
-#https://indowebster.com
-#https://inews.gr
-#https://infibeam.com
-#https://infolinks.com
-#https://informationng.com
-#https://informe21.com
-#https://inkedmag.com
-#https://inlinkz.com
-#https://inquirer.net
-#https://insight.ly
-#https://instantcheckmate.com
-#https://intercambiosvirtuales.org
-#https://intereconomia.com
-#https://internethaber.com
-#https://interpals.net
-#https://ioffer.com
-#https://iol.co.za
-#https://iphoneogram.com
-#https://iphones.ru
-#https://ipiccy.com
-#https://iptorrents.com
-#https://islammemo.cc
-#https://italiafilm.tv
-#https://it-ebooks.info
-#https://ittefaq.com.bd
-#https://ixl.com
-#https://jagobd.com
-#https://jang.com.pk
-#https://javascript.ru
-#https://jeanmarcmorandini.com
-#https://j.gs
-#https://jne.co.id
-#https://joemonster.org
-#https://johnchow.com
-#https://jonloomer.com
-#https://joomla.fr
-#https://joomlart.com
-#https://joomshaper.com
-#https://jotform.com
-#https://jquery.com
-#https://jquerymobile.com
-#https://jqueryui.com
-#https://jusbrasil.com.br
-#https://justunfollow.com
-#https://jutarnji.hr
-#https://jvzoo.com
-#https://kaban.tv
-#https://kalahari.com
-#https://kanui.com.br
-#https://karnaval.com
-#https://katproxy.com
-#https://keep2share.cc
-#https://khabarfarsi.com
-#https://khmerload.com
-#https://kingworldnews.com
-#https://kinogo.net
-#https://kinox.to
-#https://kinozal.tv
-#https://kleiderkreisel.de
-#https://klicktel.de
-#https://klix.ba
-#https://kn3.net
-#https://komikid.com
-#https://korabia.com
-#https://kora-online.tv
-#https://korben.info
-#https://krucil.net
-#https://ktonanovenkogo.ru
-#https://kure.tv
-#https://kwejk.pl
-#https://lankacnews.com
-#https://lapatilla.com
-#https://laravel.com
-#https://largeporntube.com
-#https://latribune.fr
-#https://laughingsquid.com
-#https://layalina.com
-#https://lebuteur.com
-#https://legiaodosherois.com.br
-#https://lenskart.com
-#https://levelup.com
-#https://lewrockwell.com
-#https://libertagia.com
-#https://life.com.tw
-#https://light-dark.net
-#https://liilas.com
-#https://lik.cl
-#https://like4like.org
-#https://likesasap.com
-#https://likes.com
-#https://limetorrents.com
-#https://linkbucks.com
-#https://linkcollider.com
-#https://linkconnector.com
-#https://linkcrypt.ws
-#https://linksmanagement.com
-#https://listcovery.com
-#https://listverse.com
-#https://livememe.com
-#https://lolinez.com
-#https://lolnexus.com
-#https://looti.net
-#https://lumfile.com
-#https://m5zn.com
-#https://mafiashare.net
-#https://makeameme.org
-#https://makeupandbeauty.com
-#https://makezine.com
-#https://malaysiakini.com
-#https://malwaretips.com
-#https://managewp.com
-#https://mangafox.me
-#https://mangahere.com
-#https://mangapanda.com
-#https://mangareader.net
-#https://mangastream.com
-#https://manoto1.com
-#https://maplestage.com
-#https://marathonbet.com
-#https://marketglory.com
-#https://marunadanmalayali.com
-#https://matchesfashion.com
-#https://mathsisfun.com
-#https://matthewwoodward.co.uk
-#https://maultalk.com
-#https://maxicep.com
-#https://maxmind.com
-#https://mazika2day.com
-#https://mediapart.fr (not proxified by CF and not affected)
-#https://mediatakeout.com
-#https://mediatraffic.com
-#https://medium.com
-#https://megashare.info
-#https://members.webs.com
-#https://memecenter.com
-#https://memedad.com
-#https://meme-lol.com
-#https://menshealth.com
-#https://merca20.com
-#https://mforos.com
-#https://mg.co.za
-#https://micromaxinfo.com
-#https://microworkers.com
-#https://mindmeister.com
-#https://mindtools.com
-#https://minecraftforum.net
-#https://minijuegos.com
-#https://minutebuzz.com
-#https://mitbbs.com
-#https://mixcloud.com
-#https://mixedmartialarts.com
-#https://mkyong.com
-#https://mmo-champion.com
-#https://mobafire.com
-#https://mobilism.org
-#https://moddb.com
-#https://moneymakergroup.com
-#https://monova.org
-#https://moodle.org (no leaked data found in several search engine caches)
-#https://morguefile.com
-#https://moveon.org
-#https://movie4k.to
-#https://movie-blog.org
-#https://movieweb.com
-#https://mp3skull.com
-#https://mp3xd.com
-#https://mstaml.com
-#https://musavat.com
-#https://mybb.com
-#https://mybroadband.co.za
-#https://mydealz.de
-#https://mydigitallife.info
-#https://myegy.com
-#https://mygully.com
-#https://mylikes.com
-#https://mymodernmet.com
-#https://mynewsdesk.com
-#https://myorderbox.com
-#https://mysavings.com
-#https://mysmartprice.com
-#https://myvidster.com
-#https://n4g.com
-#https://n4hr.com
-#https://naijapals.com
-#https://naij.com
-#https://nairaland.com
-#https://namepros.com
-#https://naosalvo.com.br
-#https://nationalreview.com
-#https://natunbarta.com
-#https://ncrypt.in
-#https://neswangy.net
-#https://netbarg.com
-#https://network-tools.com
-#https://newgrounds.com
-#https://news.am
-#https://newtvworld.com
-#https://nexusmods.com
-#https://nguoiduatin.vn
-#https://nicozon.net
-#https://ninisite.com
-#https://niusnews.com
-#https://nmisr.com
-#https://nodejs.org
-#https://notdoppler.com
-#https://notebookcheck.net
-#https://noticiaaldia.com
-#https://noticierodigital.com
-#https://novafile.com
-#https://nowgamez.com
-#https://nrc.nl
-#https://nuevoloquo.com
-#https://nulled.cc
-#https://nullrefer.com
-#https://nur.kz
-#https://nyaa.se
-#https://ocioso.com.br
-#https://odesk.com
-#https://offervault.com
-#https://ofreegames.com
-#https://ojooo.com
-#https://omegle.com
-#https://on.cc
-#https://onedio.com
-#https://onlinekhabar.com
-#https://onlinesoccermanager.com
-#https://online-stopwatch.com
-#https://oodle.com
-#https://opencart.com
-#https://openclassrooms.com
-#https://opensubtitles.org
-#https://opinionlab.com
-#https://opposingviews.com
-#https://optimizepress.com
-#https://optionbit.com
-#https://orgasmatrix.com
-#https://osdir.com
-#https://pagina12.com.ar
-#https://pandodaily.com
-#https://paperblog.com
-#https://pastebin.com
-#https://patient.co.uk
-#https://paxum.com
-#https://pbagora.com.br
-#https://pcadvisor.co.uk
-#https://pccomponentes.com
-#https://pcgames.de
-#https://pcgameshardware.de
-#https://pcinpact.com
-#https://pdfonline.com
-#https://peb.pl
-#https://peerfly.com
-#https://peliculas4.com
-#https://peliculasyonkis.com
-#https://penguinvids.com
-#https://penny-arcade.com
-#https://persiantools.com
-#https://petapixel.com
-#https://phimvang.com
-#https://phpbb.com
-#https://picstopin.com
-#https://pijamasurf.com
-#https://pik.ba
-#https://pimpandhost.com
-#https://pingdom.com
-#https://pirateproxy.net
-#https://pirateproxy.se
-#https://piratestreaming.tv
-#https://pixhost.org
-#https://pjmedia.com
-#https://planetminecraft.com
-#https://played.to
-#https://playvid.com
-#https://playxn.com
-#https://plugrush.com
-#https://plus28.com
-#https://popcash.net
-#https://poringa.net
-#https://pornbb.org
-#https://pornerbros.com
-#https://pornper.com
-#https://porntube.com
-#https://porntubevidz.com
-#https://pornup.me
-#https://portalnet.cl
-#https://postplanner.com
-#https://prefiles.com
-#https://premiere.fr
-#https://premiumwp.com
-#https://prevention.com
-#https://primewire.ag
-#https://privatehomeclips.com
-#https://priyo.com
-#https://prlog.ru
-#https://prntscr.com
-#https://problogger.net
-#https://proboards.com
-#https://proceso.com.mx
-#https://promiflash.de
-#https://promptfile.com
-#https://propakistani.pk
-#https://proprofs.com
-#https://psychcentral.com
-#https://ptt.cc
-#https://pubdirecte.com
-#https://publika.az
-#https://puls24.mk
-#https://punchng.com
-#https://purpleporno.com
-#https://putlocker.bz
-#https://putlocker.com
-#https://putlocker.ws
-#https://puu.sh
-#https://q8yat.com
-#https://qafqazinfo.az
-#https://q-ask.com
-#https://qatarliving.com
-#https://qaynar.info
-#https://q.gs
-#https://questionablecontent.net
-#https://[quizlet.com] (http://quizlet.com)
-#https://r10.net
-#https://racing-games.com
-#https://radiojavan.com
-#https://rahnama.com
-#https://random.org
-#https://ranker.com
-#https://rapgenius.com
-#https://rapradar.com
-#https://rassd.com
-#https://raventools.com
-#https://rawstory.com
-#https://reactiongifs.com
-#https://readms.com
-#https://realfarmacy.com
-#https://realitatea.net
-#https://redbubble.com
-#https://re-direcciona.me
-#https://reduxmediia.com
-#https://relink.us
-#https://resellerclub.com
-#https://residentadvisor.net
-#https://rghost.ru
-#https://ripoffreport.com
-#https://robtex.com
-#https://rockpapershotgun.com
-#https://roro44.com
-#https://rosbalt.ru
-#https://rozee.pk
-#https://rubias19.com
-#https://runetki.com
-#https://runetki.tv
-#https://runnersworld.com
-#https://rus.ec
-#https://ryushare.com
-#https://sa.ae
-#https://saaid.net
-#https://sabq.org
-#https://sadistic.pl
-#https://saharareporters.com
-#https://samanyoluhaber.com
-#https://sankakucomplex.com
-#https://say7.info
-#https://sayidaty.net
-#https://scamadviser.com
-#https://scriptmafia.org
-#https://sdpnoticias.com
-#https://searchengines.ru
-#https://searchere.info
-#https://searchquotes.com
-#https://sedty.com
-#https://seemorgh.com
-#https://seenive.com
-#https://semprot.com
-#https://seneweb.com
-#https://seozenlaunch.com
-#https://sergey-mavrodi.com
-#https://sergeymavrodi.com
-#https://sergey-mavrodi-mmm.net
-#https://serials.ws
-#https://serienjunkies.org
-#https://series.ly
-#https://seriesyonkis.com
-#https://seriouseats.com
-#https://serviporno.com
-#https://seslisozluk.net
-#https://sethgodin.typepad.com
-#https://sexytube.me
-#https://shahvani.com
-#https://shareasale.com
-#https://share-links.biz
-#https://share-online.biz
-#https://sheknows.com
-#https://shiftdelete.net
-#https://shoghlanty.com
-#https://shorouknews.com
-#https://shortp.com
-#https://shoutmeloud.com
-#https://sia.az
-#https://siasat.pk
-#https://siliconrus.com
-#https://simplyrecipes.com
-#https://sinembargo.mx
-#https://sipse.com
-#https://sitedeals.nl
-#https://sitetalk.com
-#https://siyahgazete.com
-#https://skidrowcrack.com
-#https://skidrowgames.net
-#https://skladchik.com
-#https://skyscrapercity.com
-#https://slaati.com
-#https://slashfilm.com
-#https://slate.fr
-#https://slimspots.com
-#https://sm3na.com
-#https://smallbiztrends.com
-#https://smallseotools.com
-#https://smartinsights.com
-#https://smartpassiveincome.com
-#https://smosh.com
-#https://snapwidget.com
-#https://soccermanager.com
-#https://soccersuck.com
-#https://socialadr.com
-#https://socialblade.com
-#https://socialmediabar.com
-#https://socialmediaexaminer.com
-#https://socialmediatoday.com
-#https://socialtriggers.com
-#https://softarchive.net
-#https://solidtrustpay.com
-#https://someecards.com
-#https://somethingawful.com
-#https://somuch.com
-#https://songlyrics.com
-#https://songspk.cc
-#https://songspk.name
-#https://soompi.com
-#https://sooperarticles.com
-#https://sopitas.com
-#https://source-wave.com
-#https://sourtimes.org
-#https://spankbang.com
-#https://spi0n.com
-#https://spin.com
-#https://sportcategory.com
-#https://sportdog.gr
-#https://spotscenered.info
-#https://sprashivai.ru
-#https://ssense.com
-#https://stadelahly.com
-#https://stadt-bremerhaven.de
-#https://stafaband.info
-#https://stagram.com
-#https://standardmedia.co.ke
-#https://stansberryresearch.com
-#https://stargazete.com
-#https://starsue.net
-#https://statcounter.com
-#https://statmyweb.com
-#https://statscrop.com
-#https://stepashka.com
-#https://stereogum.com
-#https://stocktwits.com
-#https://stopforumspam.com
-#https://storenvy.com
-#https://streamhunter.eu
-#https://stream-tv.me
-#https://stuffgate.com
-#https://submissionwebdirectory.com
-#https://subscene.com
-#https://subtitulos.es
-#https://sudaneseonline.com
-#https://sunmaker.com
-#https://super.ae
-#https://surveygizmo.com
-#https://swalif.net
-#https://systweak.com
-#https://t411.me
-#https://talkarcades.com
-#https://tamindir.com
-#https://taringa.net
-#https://taxheaven.gr
-#https://te3p.com
-#https://teamliquid.net (not proxied by CF and not affected)
-#https://techdirt.com
-#https://techinasia.com
-#https://tech-wd.com
-#https://tecmundo.com.br
-#https://teespring.com
-#https://telelistas.net
-#https://template-help.com
-#https://templatemonster.com
-#https://tfl.gov.uk
-#https://tgju.org
-#https://th3professional.com
-#https://thaqafnafsak.com
-#https://thebump.com
-#https://the-bux.net
-#https://thedailybeast.com
-#https://theelevationgroup.com
-#https://thefrisky.com
-#https://thehackernews.com
-#https://thejournal.ie
-#https://theladbible.com
-#https://themalaysianinsider.com
-#https://theme-fusion.com
-#https://theme-junkie.com
-#https://themelock.com
-#https://themobileindian.com
-#https://thenationonlineng.net
-#https://thenews.com.pk
-#https://thenewstribe.com
-#https://thepoke.co.uk
-#https://theregister.co.uk
-#https://thestudentroom.co.uk
-#https://thesuperficial.com
-#https://thethao247.vn
-#https://thetoptens.com
-#https://theync.com
-#https://thingiverse.com
-#https://thisav.com
-#https://thisoldhouse.com
-#https://tickld.com
-#https://tielabs.com
-#https://tineye.com
-#https://tipsandtricks-hq.com
-#https://tmart.com
-#https://tn.com.ar
-#https://tnr.com
-#https://todayhumor.co.kr
-#https://tomshw.it
-#https://top-channel.tv
-#https://topdocumentaryfilms.com
-#https://topix.com
-#https://toprankblog.com
-#https://torlock.com
-#https://torrentbutler.eu
-#https://torrentcrazy.com
-#https://torrentday.com
-#https://torrentdownloads.me
-#https://torrentfreak.com
-#https://torrenthound.com
-#https://torrentleech.org
-#https://torrentreactor.net
-#https://torrents.net
-#https://townhall.com
-#https://tracklab101.com
-#https://tradetracker.com
-#https://trafficbroker.com
-#https://trafficestimate.com
-#https://trafficfactory.biz
-#https://trafficg.com
-#https://traidnt.net
-#https://tribune.com.pk
-#https://trndsys.co
-#https://trueactivist.com
-#https://truthaboutabs.com
-#https://tubeplus.me
-#https://tukif.com
-#https://tunisia-sat.com
-#https://tureng.com
-#https://tutorialzine.com
-#https://tutsplus.com
-#https://tuvaro.com
-#https://tvboxnow.com
-#https://tvrage.com
-#https://tv-series.me
-#https://tw116.com
-#https://twentytwowords.com
-#https://twitchy.com
-#https://typepad.com
-#https://uber.com
-#https://udemy.com
-#https://uludagsozluk.com
-#https://unitezz.com
-#https://uploadboy.com
-#https://uppit.com
-#https://uptobox.com
-#https://usingenglish.com
-#https://utrace.de
-#https://utusan.com.my
-#https://uwants.com
-#https://vanguardngr.com
-#https://vavel.com
-#https://vcommission.com
-#https://vecernji.hr
-#https://vecteezy.com
-#https://vetogate.com
-#https://vid2c.com
-#https://videarn.com
-#https://video.az
-#https://videomega.tv
-#https://videopremium.tv
-#https://videoyoum7.com
-#https://vidspot.net
-#https://viralnova.com
-#https://vivas.fi
-#https://vladtv.com
-#https://vodly.to
-#https://vodonet.net
-#https://voetbalzone.nl
-#https://vozforums.com
-#https://vr-zone.com
-#https://w3resource.com
-#https://w4.com
-#https://warez-bb.org
-#https://warriorplus.com
-#https://waseet.net
-#https://washingtontimes.com
-#https://watch32.com
-#https://watchcartoononline.com
-#https://watchfreemovies.ch
-#https://watchseries.lt
-#https://watchseries-online.eu
-#https://wattpad.com
-#https://waveapps.com
-#https://wayn.com
-#https://wearehairy.com
-#https://webconfs.com
-#https://webdesignerdepot.com
-#https://webdesignledger.com
-#https://webgains.com
-#https://webhostbox.net
-#https://webhostingtalk.com
-#https://webmastersitesi.com
-#https://web-opinions.com
-#https://webresourcesdepot.com
-#https://webs.com
-#https://wed168.com.tw
-#https://wehkamp.nl
-#https://weknowmemes.com
-#https://weloveshopping.com
-#https://whatculture.com
-#https://whatismyip.com
-#https://whatsmyserp.com
-#https://whirlpool.net.au
-#https://whocallsme.com
-#https://whoishostingthis.com
-#https://whoismind.com
-#https://wikiwiki.jp
-#https://wiziq.com
-#https://wiziwig.tv
-#https://wjunction.com
-#https://wmmail.ru
-#https://womenshealthmag.com
-#https://worldtimebuddy.com
-#https://worldtimeserver.com
-#https://worthofweb.com
-#https://wpcentral.com
-#https://wpengine.com
-#https://wphub.com
-#https://wplocker.com
-#https://wpmu.org
-#https://x-art.com
-#https://xat.com
-#https://xbmc.org
-#https://xenforo.com
-#https://xxxbunker.com
-#https://xxxkinky.com
-#https://yam.com
-#https://yazete.com
-#https://yepi.com
-#https://yeppudaa.com
-#https://yeslibertin.com
-#https://yola.com
-#https://yoo7.com
-#https://yougetpaidfast.com
-#https://yougetsignal.com
-#https://youm7.com
-#https://yourbittorrent.com
-#https://youtradefx.com
-#https://youtube-mp3.org
-#https://yucatan.com.mx
-#https://yuku.com
-#https://z6.com
-#https://zakon.kz
-#https://zalukaj.tv
-#https://zamalekfans.com
-#https://zaman.com.tr
-#https://zemanta.com
-#https://zemtv.com
-#https://zenhabits.net
-#https://zero10.net
-#https://zetaboards.com
-#https://ziprecruiter.com
-#https://zone-telechargement.com
-#https://zoominfo.com
-#https://zoomit.ir
-#https://zurb.com
-#https://zwaar.net
+		https://authy.com (no leaked data found in several search engine caches)	
+- [https://coinbase.com		https://coinbase.com	
+- [https://bitcoin.de		https://bitcoin.de	
+- [https://betterment.com		https://betterment.com	
+- [https://prosper.com		https://prosper.com	
+- [https://patreon.com		https://patreon.com	
+- [https://bitpay.com		https://bitpay.com	
+- [https://news.ycombinator.com		https://news.ycombinator.com	
+- [https://producthunt.com		https://producthunt.com	
+- [https://medium.com		https://medium.com	
+- [https://4chan.org		https://4chan.org	
+- [https://yelp.com](https://yelp.com)
+- [https://okcupid.com](https://okcupid.com)
+- [https://zendesk.com (Zendesk post and updates | no leaked data found)](https://zendesk.com (Zendesk post and updates | no leaked data found))
+- [https://uber.com](https://uber.com)
+- [https://poloniex.com](https://poloniex.com)
+- [https://localbitcoins.com](https://localbitcoins.com)
+- [https://kraken.com](https://kraken.com)
+- [https://23andme.com](https://23andme.com)
+- [https://curse.com (and some other Curse sites like minecraftforum.net)](https://curse.com (and some other Curse sites like minecraftforum.net))
+- [https://counsyl.com](https://counsyl.com)
+- [https://tfl.gov.uk](https://tfl.gov.uk)
+- [https://myaccount.nytimes.com](https://myaccount.nytimes.com)
+- [https://technicpack.net](https://technicpack.net)
+- [https://cloudflare.com](https://cloudflare.com)
+- [https://blockchain.info](https://blockchain.info)
+- [https://discordapp.com (affected)](https://discordapp.com (affected))
+- [https://digitalocean.com (no leaked data found in several search engine caches)](https://digitalocean.com (no leaked data found in several search engine caches))
+- [https://namecheap.com (no leaked data found in several search engine caches)](https://namecheap.com (no leaked data found in several search engine caches))
+- [https://glassdoor.com (no leaked data found in several search engine caches)](https://glassdoor.com (no leaked data found in several search engine caches))
+- [https://transferwise.com (no leaked data found in several search engine caches](https://transferwise.com (no leaked data found in several search engine caches)
+- [https://vultr.com (no leaked data found in several search engine caches)](https://vultr.com (no leaked data found in several search engine caches))
+- [https://fastmail.com (not affected, #2)](https://fastmail.com (not affected, #2))
+- [https://1password.com (not affected)](https://1password.com (not affected))
+- [https://Alexa Top 10,000 on Cloudflare DNS:](https://Alexa Top 10,000 on Cloudflare DNS:)
+- [https://upwork.com](https://upwork.com)
+- [https://codepen.io](https://codepen.io)
+- [https://fiverr.com](https://fiverr.com)
+- [https://thepiratebay.org](https://thepiratebay.org)
+- [https://extratorrent.com](https://extratorrent.com)
+- [https://getbootstrap.com](https://getbootstrap.com)
+- [https://jquery.com](https://jquery.com)
+- [https://laravel.com](https://laravel.com)
+- [https://laracasts.com](https://laracasts.com)
+- [https://seriouseats.com](https://seriouseats.com)
+- [https://bitdefender.com](https://bitdefender.com)
+- [https://ziprecruiter.com (no leaked data found in several search engine caches)](https://ziprecruiter.com (no leaked data found in several search engine caches))
+- [https://glassdoor.com](https://glassdoor.com)
+- [https://pastebin.com](https://pastebin.com)
+- [https://fitbit.com](https://fitbit.com)
+- [https://discordapp.com](https://discordapp.com)
+- [https://change.org](https://change.org)
+- [https://feedly.com (affected)](https://feedly.com (affected))
+- [https://irccloud.com](https://irccloud.com)
+- [https://000webhost.com](https://000webhost.com)
+- [https://1001freefonts.com](https://1001freefonts.com)
+- [https://101greatgoals.com](https://101greatgoals.com)
+- [https://10minutemail.com](https://10minutemail.com)
+- [https://123telugu.com](https://123telugu.com)
+- [https://1hhhh.net](https://1hhhh.net)
+- [https://1jux.net](https://1jux.net)
+- [https://1news.az](https://1news.az)
+- [https://1sale.com](https://1sale.com)
+- [https://1stwebdesigner.com](https://1stwebdesigner.com)
+- [https://24horas.cl](https://24horas.cl)
+- [https://24sata.hr](https://24sata.hr)
+- [https://2ch-c.net](https://2ch-c.net)
+- [https://2ch.hk](https://2ch.hk)
+- [https://2ch.net](https://2ch.net)
+- [https://2ip.ru](https://2ip.ru)
+- [https://3bmeteo.com](https://3bmeteo.com)
+- [https://4chan.org](https://4chan.org)
+- [https://4dsply.com](https://4dsply.com)
+- [https://4pda.ru](https://4pda.ru)
+- [https://4tube.com](https://4tube.com)
+- [https://5giay.vn](https://5giay.vn)
+- [https://800notes.com](https://800notes.com)
+- [https://96down.com](https://96down.com)
+- [https://abidjan.net](https://abidjan.net)
+- [https://abs-cbnnews.com](https://abs-cbnnews.com)
+- [https://adafruit.com](https://adafruit.com)
+- [https://add-anime.net](https://add-anime.net)
+- [https://addicted2success.com](https://addicted2success.com)
+- [https://addictinginfo.org](https://addictinginfo.org)
+- [https://addmefast.com](https://addmefast.com)
+- [https://addtoany.com](https://addtoany.com)
+- [https://adf.ly](https://adf.ly)
+- [https://adfoc.us](https://adfoc.us)
+- [https://ads-id.com](https://ads-id.com)
+- [https://adult-empire.com](https://adult-empire.com)
+- [https://advfn.com](https://advfn.com)
+- [https://adxpansion.com](https://adxpansion.com)
+- [https://wohotv.com](https://wohotv.com)
+- [https://cookedrecipe.com](https://cookedrecipe.com)
+- [https://puntacan.com](https://puntacan.com)
+- [https://docfinderus.com](https://docfinderus.com)
+- [https://doctorfinder.us](https://doctorfinder.us)
+- [https://ares.fun](https://ares.fun)
+- [https://aftabir.com](https://aftabir.com)
+- [https://agilebits.com](https://agilebits.com)
+- [https://ahlamontada.com](https://ahlamontada.com)
+- [https://ahlynews.com](https://ahlynews.com)
+- [https://ahnegao.com.br](https://ahnegao.com.br)
+- [https://aitnews.com](https://aitnews.com)
+- [https://aksam.com.tr](https://aksam.com.tr)
+- [https://aktifhaber.com](https://aktifhaber.com)
+- [https://al-akhbar.com](https://al-akhbar.com)
+- [https://aleqt.com](https://aleqt.com)
+- [https://alexaboostup.com](https://alexaboostup.com)
+- [https://alfajertv.com](https://alfajertv.com)
+- [https://alfavita.gr](https://alfavita.gr)
+- [https://alhilal.com](https://alhilal.com)
+- [https://alison.com](https://alison.com)
+- [https://alistapart.com](https://alistapart.com)
+- [https://aljaras.com](https://aljaras.com)
+- [https://allanalpass.com](https://allanalpass.com)
+- [https://all.biz](https://all.biz)
+- [https://allkpop.com](https://allkpop.com)
+- [https://allmyvideos.net](https://allmyvideos.net)
+- [https://alltop.com](https://alltop.com)
+- [https://almaany.com](https://almaany.com)
+- [https://almasryalyoum.com](https://almasryalyoum.com)
+- [https://almesryoon.com](https://almesryoon.com)
+- [https://alnaharegypt.com](https://alnaharegypt.com)
+- [https://alphacoders.com](https://alphacoders.com)
+- [https://alrakoba.net](https://alrakoba.net)
+- [https://alternativeto.net](https://alternativeto.net)
+- [https://alternet.org](https://alternet.org)
+- [https://alwafd.org](https://alwafd.org)
+- [https://alwatanvoice.com](https://alwatanvoice.com)
+- [https://alweeam.com.sa](https://alweeam.com.sa)
+- [https://amadershomoybd.com](https://amadershomoybd.com)
+- [https://amarujala.com](https://amarujala.com)
+- [https://amino.dk](https://amino.dk)
+- [https://anandabazar.com](https://anandabazar.com)
+- [https://androidauthority.com](https://androidauthority.com)
+- [https://androidcentral.com](https://androidcentral.com)
+- [https://androidpolice.com](https://androidpolice.com)
+- [https://angloinfo.com](https://angloinfo.com)
+- [https://anime44.com](https://anime44.com)
+- [https://animeflv.net](https://animeflv.net)
+- [https://animeid.tv](https://animeid.tv)
+- [https://animenewsnetwork.com](https://animenewsnetwork.com)
+- [https://anipo.jp](https://anipo.jp)
+- [https://anitube.se](https://anitube.se)
+- [https://ann.az](https://ann.az)
+- [https://annunci69.it](https://annunci69.it)
+- [https://antarvasna.com](https://antarvasna.com)
+- [https://antena3.ro](https://antena3.ro)
+- [https://antyweb.pl](https://antyweb.pl)
+- [https://any.gs](https://any.gs)
+- [https://ap7am.com](https://ap7am.com)
+- [https://apherald.com](https://apherald.com)
+- [https://apne.tv](https://apne.tv)
+- [https://aporrea.org](https://aporrea.org)
+- [https://appadvice.com](https://appadvice.com)
+- [https://appbrain.com](https://appbrain.com)
+- [https://appstorm.net](https://appstorm.net)
+- [https://arabsh.com](https://arabsh.com)
+- [https://archive.is](https://archive.is)
+- [https://argentinawarez.com](https://argentinawarez.com)
+- [https://arioo.com](https://arioo.com)
+- [https://aristeguinoticias.com](https://aristeguinoticias.com)
+- [https://armorgames.com](https://armorgames.com)
+- [https://arouraios.gr](https://arouraios.gr)
+- [https://articlesnatch.com](https://articlesnatch.com)
+- [https://ashleymadison.com](https://ashleymadison.com)
+- [https://ashleyrnadison.com](https://ashleyrnadison.com)
+- [https://atlas.sk](https://atlas.sk)
+- [https://attracta.com](https://attracta.com)
+- [https://atwiki.jp](https://atwiki.jp)
+- [https://authorstream.com](https://authorstream.com)
+- [https://avaaz.org](https://avaaz.org)
+- [https://avaz.ba](https://avaz.ba)
+- [https://avazutracking.net](https://avazutracking.net)
+- [https://avito.ma](https://avito.ma)
+- [https://avito.ru (confirmed by @toogle from Avito.ru as not affected)](https://avito.ru (confirmed by @toogle from Avito.ru as not affected))
+- [https://avn.info.ve](https://avn.info.ve)
+- [https://azertag.com](https://azertag.com)
+- [https://aznews.az](https://aznews.az)
+- [https://azyya.com](https://azyya.com)
+- [https://b1.org](https://b1.org)
+- [https://bab.la](https://bab.la)
+- [https://babyoye.com](https://babyoye.com)
+- [https://backlinks.com](https://backlinks.com)
+- [https://bakufu.jp](https://bakufu.jp)
+- [https://bancdebinary.com](https://bancdebinary.com)
+- [https://banglanews24.com](https://banglanews24.com)
+- [https://barstoolsports.com](https://barstoolsports.com)
+- [https://bbspink.com](https://bbspink.com)
+- [https://bc.vc](https://bc.vc)
+- [https://bdr130.net](https://bdr130.net)
+- [https://beeg.com](https://beeg.com)
+- [https://behindwoods.com](https://behindwoods.com)
+- [https://belboon.com](https://belboon.com)
+- [https://bestblackhatforum.com](https://bestblackhatforum.com)
+- [https://bezaat.com](https://bezaat.com)
+- [https://bicaps.com](https://bicaps.com)
+- [https://bigrock.in](https://bigrock.in)
+- [https://bikroy.com](https://bikroy.com)
+- [https://billiger.de](https://billiger.de)
+- [https://billionuploads.com](https://billionuploads.com)
+- [https://binaryoptionsnewbies.com](https://binaryoptionsnewbies.com)
+- [https://binsearch.info](https://binsearch.info)
+- [https://bitcoincharts.com](https://bitcoincharts.com)
+- [https://bitshare.com](https://bitshare.com)
+- [https://bitsnoop.com](https://bitsnoop.com)
+- [https://bizsugar.com](https://bizsugar.com)
+- [https://blackhatteam.com](https://blackhatteam.com)
+- [https://blackhatworld.com](https://blackhatworld.com)
+- [https://blankrefer.com](https://blankrefer.com)
+- [https://bleepingcomputer.com](https://bleepingcomputer.com)
+- [https://blekko.com](https://blekko.com)
+- [https://blinklist.com](https://blinklist.com)
+- [https://blip.tv](https://blip.tv)
+- [https://blockchain.info](https://blockchain.info)
+- [https://blogcatalog.com](https://blogcatalog.com)
+- [https://blogfa.com](https://blogfa.com)
+- [https://blogs.com](https://blogs.com)
+- [https://boards.ie](https://boards.ie)
+- [https://boo-box.com](https://boo-box.com)
+- [https://boxden.com](https://boxden.com)
+- [https://boxingscene.com](https://boxingscene.com)
+- [https://brainpickings.org](https://brainpickings.org)
+- [https://brainyquote.com](https://brainyquote.com)
+- [https://brandyourself.com](https://brandyourself.com)
+- [https://brasil247.com](https://brasil247.com)
+- [https://briian.com](https://briian.com)
+- [https://broadwayworld.com](https://broadwayworld.com)
+- [https://bronto.com](https://bronto.com)
+- [https://brooonzyah.net](https://brooonzyah.net)
+- [https://brusheezy.com](https://brusheezy.com)
+- [https://btc-e.com](https://btc-e.com)
+- [https://bubblews.com](https://bubblews.com)
+- [https://bufferapp.com](https://bufferapp.com)
+- [https://bukkit.org](https://bukkit.org)
+- [https://burbuja.info](https://burbuja.info)
+- [https://burnews.com](https://burnews.com)
+- [https://business2blogger.com](https://business2blogger.com)
+- [https://businessforhome.org](https://businessforhome.org)
+- [https://buzztheme.net](https://buzztheme.net)
+- [https://camplace.com](https://camplace.com)
+- [https://cancan.ro](https://cancan.ro)
+- [https://careers360.com](https://careers360.com)
+- [https://car.gr](https://car.gr)
+- [https://catracalivre.com.br](https://catracalivre.com.br)
+- [https://cbox.ws](https://cbox.ws)
+- [https://cda.pl](https://cda.pl)
+- [https://ce4arab.com](https://ce4arab.com)
+- [https://celebuzz.com](https://celebuzz.com)
+- [https://charter97.org](https://charter97.org)
+- [https://chatrandom.com](https://chatrandom.com)
+- [https://cheathappens.com](https://cheathappens.com)
+- [https://chinavasion.com](https://chinavasion.com)
+- [https://chomikuj.pl](https://chomikuj.pl)
+- [https://christian-dogma.com](https://christian-dogma.com)
+- [https://cima4u.com](https://cima4u.com)
+- [https://ciudad.com.ar](https://ciudad.com.ar)
+- [https://ck101.com](https://ck101.com)
+- [https://clasicooo.com](https://clasicooo.com)
+- [https://classifiedads.com](https://classifiedads.com)
+- [https://cleanfiles.net](https://cleanfiles.net)
+- [https://clickbank.com](https://clickbank.com)
+- [https://clickbank.net](https://clickbank.net)
+- [https://clip.vn](https://clip.vn)
+- [https://clixsense.com](https://clixsense.com)
+- [https://cloudflare.com](https://cloudflare.com)
+- [https://clubedohardware.com.br](https://clubedohardware.com.br)
+- [https://cmse.ru](https://cmse.ru)
+- [https://codepen.io](https://codepen.io)
+- [https://codeschool.com](https://codeschool.com)
+- [https://coinbase.com](https://coinbase.com)
+- [https://col3negoriginal.lk](https://col3negoriginal.lk)
+- [https://colourlovers.com](https://colourlovers.com)
+- [https://comicbookmovie.com](https://comicbookmovie.com)
+- [https://compucalitv.com](https://compucalitv.com)
+- [https://copacet.com](https://copacet.com)
+- [https://cpalead.com](https://cpalead.com)
+- [https://cpasbien.com](https://cpasbien.com)
+- [https://cpasbien.me](https://cpasbien.me)
+- [https://crackberry.com](https://crackberry.com)
+- [https://creativecommons.org](https://creativecommons.org)
+- [https://cricfree.tv](https://cricfree.tv)
+- [https://crictime.com](https://crictime.com)
+- [https://crocko.com](https://crocko.com)
+- [https://crosswalk.com](https://crosswalk.com)
+- [https://crunchbase.com](https://crunchbase.com)
+- [https://crunchyroll.com](https://crunchyroll.com)
+- [https://cs-cart.com](https://cs-cart.com)
+- [https://cssdeck.com](https://cssdeck.com)
+- [https://cucirca.eu](https://cucirca.eu)
+- [https://curse.com](https://curse.com)
+- [https://cyanogenmod.org](https://cyanogenmod.org)
+- [https://cyberchimps.com](https://cyberchimps.com)
+- [https://cyberpresse.ca](https://cyberpresse.ca)
+- [https://dailycaller.com](https://dailycaller.com)
+- [https://daisycon.com](https://daisycon.com)
+- [https://dangerousminds.net](https://dangerousminds.net)
+- [https://dardarkom.com](https://dardarkom.com)
+- [https://dashnet.org](https://dashnet.org)
+- [https://davidicke.com](https://davidicke.com)
+- [https://davidwalsh.name](https://davidwalsh.name)
+- [https://dawanda.com](https://dawanda.com)
+- [https://dawn.com](https://dawn.com)
+- [https://de10.com.mx](https://de10.com.mx)
+- [https://deadline.com](https://deadline.com)
+- [https://defaultsear.ch](https://defaultsear.ch)
+- [https://defencenet.gr](https://defencenet.gr)
+- [https://definebabe.com](https://definebabe.com)
+- [https://demandforce.com](https://demandforce.com)
+- [https://demotywatory.pl](https://demotywatory.pl)
+- [https://deperu.com](https://deperu.com)
+- [https://desidime.com](https://desidime.com)
+- [https://designboom.com](https://designboom.com)
+- [https://designfloat.com](https://designfloat.com)
+- [https://designtaxi.com](https://designtaxi.com)
+- [https://desirulez.net](https://desirulez.net)
+- [https://desi-tashan.com](https://desi-tashan.com)
+- [https://desitorrents.com](https://desitorrents.com)
+- [https://desmotivaciones.es](https://desmotivaciones.es)
+- [https://destructoid.com](https://destructoid.com)
+- [https://deutsche-wirtschafts-nachrichten.de](https://deutsche-wirtschafts-nachrichten.de)
+- [https://dev-point.com](https://dev-point.com)
+- [https://dhakatimes24.com](https://dhakatimes24.com)
+- [https://diariocontraste.com](https://diariocontraste.com)
+- [https://diariodemorelos.com](https://diariodemorelos.com)
+- [https://diario.mx](https://diario.mx)
+- [https://diary.ru](https://diary.ru)
+- [https://dicelacancion.com](https://dicelacancion.com)
+- [https://diffen.com](https://diffen.com)
+- [https://digikala.com](https://digikala.com)
+- [https://digitalocean.com](https://digitalocean.com)
+- [https://digital-photography-school.com](https://digital-photography-school.com)
+- [https://digitalpoint.com](https://digitalpoint.com)
+- [https://discuss.com.hk](https://discuss.com.hk)
+- [https://divxplanet.com](https://divxplanet.com)
+- [https://divxstage.eu](https://divxstage.eu)
+- [https://dizi-mag.com](https://dizi-mag.com)
+- [https://djmaza.info](https://djmaza.info)
+- [https://dlink.com](https://dlink.com)
+- [https://dl-protect.com](https://dl-protect.com)
+- [https://dnevnik.hr](https://dnevnik.hr)
+- [https://doba.com](https://doba.com)
+- [https://doisongphapluat.com](https://doisongphapluat.com)
+- [https://doityourself.com](https://doityourself.com)
+- [https://doostiha.ir](https://doostiha.ir)
+- [https://dostor.org](https://dostor.org)
+- [https://dota2lounge.com](https://dota2lounge.com)
+- [https://downloadatoz.com](https://downloadatoz.com)
+- [https://downloadming.me](https://downloadming.me)
+- [https://downloads.nl](https://downloads.nl)
+- [https://dpstream.net](https://dpstream.net)
+- [https://drakulastream.eu](https://drakulastream.eu)
+- [https://dramasonline.com](https://dramasonline.com)
+- [https://dreamamateurs.com](https://dreamamateurs.com)
+- [https://dreamincode.net](https://dreamincode.net)
+- [https://dreamteammoney.com](https://dreamteammoney.com)
+- [https://dreamtemplate.com](https://dreamtemplate.com)
+- [https://droid-life.com](https://droid-life.com)
+- [https://drudgereport.com](https://drudgereport.com)
+- [https://dryicons.com](https://dryicons.com)
+- [https://dsdomination.com](https://dsdomination.com)
+- [https://duedil.com](https://duedil.com)
+- [https://dumpert.nl](https://dumpert.nl)
+- [https://dx.com](https://dx.com)
+- [https://eatlocalgrown.com](https://eatlocalgrown.com)
+- [https://ebs.in](https://ebs.in)
+- [https://e-cigarette-forum.com](https://e-cigarette-forum.com)
+- [https://econsultancy.com](https://econsultancy.com)
+- [https://edublogs.org](https://edublogs.org)
+- [https://e-estekhdam.com](https://e-estekhdam.com)
+- [https://efukt.com](https://efukt.com)
+- [https://egaliteetreconciliation.fr](https://egaliteetreconciliation.fr)
+- [https://egyup.com](https://egyup.com)
+- [https://el-ahly.com](https://el-ahly.com)
+- [https://elance.com](https://elance.com)
+- [https://el-balad.com](https://el-balad.com)
+- [https://elbilad.net](https://elbilad.net)
+- [https://elbotola.com](https://elbotola.com)
+- [https://eldia.com.ar](https://eldia.com.ar)
+- [https://elephantjournal.com](https://elephantjournal.com)
+- [https://elespectador.com](https://elespectador.com)
+- [https://elfagr.org](https://elfagr.org)
+- [https://elheddaf.com](https://elheddaf.com)
+- [https://elitepvpers.com](https://elitepvpers.com)
+- [https://elitetorrent.net](https://elitetorrent.net)
+- [https://elkhabar.com](https://elkhabar.com)
+- [https://elpais.com.uy](https://elpais.com.uy)
+- [https://elshaab.org](https://elshaab.org)
+- [https://elwatannews.com](https://elwatannews.com)
+- [https://el-wlid.com](https://el-wlid.com)
+- [https://emailmeform.com](https://emailmeform.com)
+- [https://emoneyspace.com](https://emoneyspace.com)
+- [https://e-monsite.com](https://e-monsite.com)
+- [https://encuentra24.com](https://encuentra24.com)
+- [https://englishforums.com](https://englishforums.com)
+- [https://enjoydressup.com](https://enjoydressup.com)
+- [https://enwdgts.com](https://enwdgts.com)
+- [https://epidemz.net](https://epidemz.net)
+- [https://erepublik.com](https://erepublik.com)
+- [https://ero-advertising.com](https://ero-advertising.com)
+- [https://ethnos.gr](https://ethnos.gr)
+- [https://etxt.ru](https://etxt.ru)
+- [https://excellentbux.net](https://excellentbux.net)
+- [https://expatriates.com](https://expatriates.com)
+- [https://experts-exchange.com (no leaked data found in several search engine caches)](https://experts-exchange.com (no leaked data found in several search engine caches))
+- [https://explosm.net](https://explosm.net)
+- [https://express.com.pk](https://express.com.pk)
+- [https://express.pk](https://express.pk)
+- [https://extabit.com](https://extabit.com)
+- [https://extratorrent.cc](https://extratorrent.cc)
+- [https://extratorrent.com](https://extratorrent.com)
+- [https://eyny.com](https://eyny.com)
+- [https://ezilon.com](https://ezilon.com)
+- [https://eztv.it](https://eztv.it)
+- [https://fabthemes.com](https://fabthemes.com)
+- [https://fakenamegenerator.com](https://fakenamegenerator.com)
+- [https://fakku.net](https://fakku.net)
+- [https://fanpop.com](https://fanpop.com)
+- [https://fansided.com](https://fansided.com)
+- [https://fansshare.com](https://fansshare.com)
+- [https://fanswong.com](https://fanswong.com)
+- [https://fantasy8.com](https://fantasy8.com)
+- [https://fap.to](https://fap.to)
+- [https://fatakat.com](https://fatakat.com)
+- [https://feedio.net](https://feedio.net)
+- [https://feedly.com](https://feedly.com)
+- [https://fenopy.se](https://fenopy.se)
+- [https://ffffound.com](https://ffffound.com)
+- [https://filecloud.io](https://filecloud.io)
+- [https://filelist.ro](https://filelist.ro)
+- [https://filenuke.com](https://filenuke.com)
+- [https://filesfetcher.com](https://filesfetcher.com)
+- [https://filgoal.com](https://filgoal.com)
+- [https://filmey.com](https://filmey.com)
+- [https://filmifullizle.com](https://filmifullizle.com)
+- [https://fishki.net](https://fishki.net)
+- [https://fiverr.com](https://fiverr.com)
+- [https://fok.nl](https://fok.nl)
+- [https://fontspace.com](https://fontspace.com)
+- [https://forbes.ru](https://forbes.ru)
+- [https://forex4you.org](https://forex4you.org)
+- [https://forexpeacearmy.com](https://forexpeacearmy.com)
+- [https://forgifs.com](https://forgifs.com)
+- [https://foro20.com](https://foro20.com)
+- [https://foroactivo.com](https://foroactivo.com)
+- [https://forobeta.com](https://forobeta.com)
+- [https://forocoches.com](https://forocoches.com)
+- [https://forosdelweb.com](https://forosdelweb.com)
+- [https://forumactif.com](https://forumactif.com)
+- [https://forumactif.org](https://forumactif.org)
+- [https://forum.hr](https://forum.hr)
+- [https://forumophilia.com](https://forumophilia.com)
+- [https://forumotion.com](https://forumotion.com)
+- [https://fotka.pl](https://fotka.pl)
+- [https://fotolog.net](https://fotolog.net)
+- [https://foundationapi.com](https://foundationapi.com)
+- [https://fragrantica.com](https://fragrantica.com)
+- [https://frandroid.com](https://frandroid.com)
+- [https://freakshare.com](https://freakshare.com)
+- [https://freekaamaal.com](https://freekaamaal.com)
+- [https://freelanceswitch.com](https://freelanceswitch.com)
+- [https://freeonlinegames.com](https://freeonlinegames.com)
+- [https://freepatriot.org](https://freepatriot.org)
+- [https://freepornvs.com](https://freepornvs.com)
+- [https://free-press-release.com](https://free-press-release.com)
+- [https://free-tv-video-online.me](https://free-tv-video-online.me)
+- [https://freewebs.com](https://freewebs.com)
+- [https://freshdesignweb.com](https://freshdesignweb.com)
+- [https://fresherslive.com](https://fresherslive.com)
+- [https://frmtr.com](https://frmtr.com)
+- [https://frombar.com](https://frombar.com)
+- [https://fsiblog.com](https://fsiblog.com)
+- [https://fssnet.co.in](https://fssnet.co.in)
+- [https://fuckbooknet.net](https://fuckbooknet.net)
+- [https://fullhdfilmizle.org](https://fullhdfilmizle.org)
+- [https://fun698.com](https://fun698.com)
+- [https://funnyjunk.com](https://funnyjunk.com)
+- [https://funnymama.com](https://funnymama.com)
+- [https://fuskator.com](https://fuskator.com)
+- [https://futhead.com](https://futhead.com)
+- [https://fux.com](https://fux.com)
+- [https://gaaks.com](https://gaaks.com)
+- [https://game321.com](https://game321.com)
+- [https://gameblog.fr](https://gameblog.fr)
+- [https://game-debate.com](https://game-debate.com)
+- [https://gamefront.com](https://gamefront.com)
+- [https://gamer.com.tw](https://gamer.com.tw)
+- [https://games.la](https://games.la)
+- [https://gamestorrents.com](https://gamestorrents.com)
+- [https://gametracker.com](https://gametracker.com)
+- [https://gamevicio.com](https://gamevicio.com)
+- [https://gamme.com.tw](https://gamme.com.tw)
+- [https://geenstijl.nl](https://geenstijl.nl)
+- [https://genteflow.com](https://genteflow.com)
+- [https://geo.tv](https://geo.tv)
+- [https://getbootstrap.com](https://getbootstrap.com)
+- [https://getcashforsurveys.com](https://getcashforsurveys.com)
+- [https://getfireshot.com](https://getfireshot.com)
+- [https://getglue.com](https://getglue.com)
+- [https://gezginler.net](https://gezginler.net)
+- [https://gezinti.com](https://gezinti.com)
+- [https://gfxtra.com](https://gfxtra.com)
+- [https://gfy.com](https://gfy.com)
+- [https://ghanaweb.com](https://ghanaweb.com)
+- [https://ghost.org](https://ghost.org)
+- [https://gigaom.com](https://gigaom.com)
+- [https://gigporno.com](https://gigporno.com)
+- [https://gistmania.com](https://gistmania.com)
+- [https://glassdoor.com](https://glassdoor.com)
+- [https://globalewallet.com](https://globalewallet.com)
+- [https://globovision.com](https://globovision.com)
+- [https://gmane.org](https://gmane.org)
+- [https://godvine.com](https://godvine.com)
+- [https://gofuckbiz.com](https://gofuckbiz.com)
+- [https://gogoanime.com](https://gogoanime.com)
+- [https://goldesel.to](https://goldesel.to)
+- [https://goldporntube.com](https://goldporntube.com)
+- [https://goldprice.org](https://goldprice.org)
+- [https://gooddrama.net](https://gooddrama.net)
+- [https://good.is](https://good.is)
+- [https://goodsearch.com](https://goodsearch.com)
+- [https://gossiplankanews.com](https://gossiplankanews.com)
+- [https://gottabemobile.com](https://gottabemobile.com)
+- [https://graaam.com](https://graaam.com)
+- [https://grasscity.com](https://grasscity.com)
+- [https://greenwichmeantime.com](https://greenwichmeantime.com)
+- [https://grindtv.com](https://grindtv.com)
+- [https://gsmhosting.com](https://gsmhosting.com)
+- [https://gsmspain.com](https://gsmspain.com)
+- [https://gtaforums.com](https://gtaforums.com)
+- [https://gulli.com](https://gulli.com)
+- [https://gun.az](https://gun.az)
+- [https://gyazo.com](https://gyazo.com)
+- [https://h2porn.com](https://h2porn.com)
+- [https://hackforums.net](https://hackforums.net)
+- [https://haivl.com](https://haivl.com)
+- [https://haivl.tv](https://haivl.tv)
+- [https://hamariweb.com](https://hamariweb.com)
+- [https://hammihan.com](https://hammihan.com)
+- [https://haqqin.az](https://haqqin.az)
+- [https://hardsextube.com](https://hardsextube.com)
+- [https://hardwareluxx.de](https://hardwareluxx.de)
+- [https://hawamer.com](https://hawamer.com)
+- [https://hawkhost.com](https://hawkhost.com)
+- [https://hayah.cc](https://hayah.cc)
+- [https://healthkart.com](https://healthkart.com)
+- [https://heavy-r.com](https://heavy-r.com)
+- [https://hespress.com](https://hespress.com)
+- [https://hibapress.com](https://hibapress.com)
+- [https://hightrafficacademy.com](https://hightrafficacademy.com)
+- [https://hihi2.com](https://hihi2.com)
+- [https://hiphopdx.com](https://hiphopdx.com)
+- [https://hir.ma](https://hir.ma)
+- [https://hitleap.com](https://hitleap.com)
+- [https://hizliresim.com](https://hizliresim.com)
+- [https://hkgolden.com](https://hkgolden.com)
+- [https://hobbyking.com](https://hobbyking.com)
+- [https://hockeysfuture.com](https://hockeysfuture.com)
+- [https://holiday-weather.com](https://holiday-weather.com)
+- [https://hostgator.com.br](https://hostgator.com.br)
+- [https://hostgator.in](https://hostgator.in)
+- [https://hostingflame.org](https://hostingflame.org)
+- [https://hotair.com](https://hotair.com)
+- [https://hotarabchat.com](https://hotarabchat.com)
+- [https://hotfrog.com](https://hotfrog.com)
+- [https://hottube.me](https://hottube.me)
+- [https://hotukdeals.com](https://hotukdeals.com)
+- [https://howtoforge.com](https://howtoforge.com)
+- [https://hubpages.com](https://hubpages.com)
+- [https://hugedomains.com](https://hugedomains.com)
+- [https://hugefiles.net](https://hugefiles.net)
+- [https://humblebundle.com](https://humblebundle.com)
+- [https://humoron.com](https://humoron.com)
+- [https://hvg.hu](https://hvg.hu)
+- [https://icefilms.info](https://icefilms.info)
+- [https://iconarchive.com](https://iconarchive.com)
+- [https://identi.li](https://identi.li)
+- [https://idlebrain.com](https://idlebrain.com)
+- [https://iitv.info](https://iitv.info)
+- [https://ijreview.com](https://ijreview.com)
+- [https://ikman.lk](https://ikman.lk)
+- [https://ilbe.com](https://ilbe.com)
+- [https://ilyke.net](https://ilyke.net)
+- [https://imagecurl.org](https://imagecurl.org)
+- [https://imageporter.com](https://imageporter.com)
+- [https://imagetwist.com](https://imagetwist.com)
+- [https://imgchili.com](https://imgchili.com)
+- [https://imgchili.net](https://imgchili.net)
+- [https://imgdino.com](https://imgdino.com)
+- [https://imgserve.net](https://imgserve.net)
+- [https://imgtiger.com](https://imgtiger.com)
+- [https://imore.com](https://imore.com)
+- [https://impiego24.it](https://impiego24.it)
+- [https://inbound.org](https://inbound.org)
+- [https://index.hr](https://index.hr)
+- [https://index-of-mp3s.com](https://index-of-mp3s.com)
+- [https://india-forums.com](https://india-forums.com)
+- [https://indiafreestuff.in](https://indiafreestuff.in)
+- [https://indiangilma.com](https://indiangilma.com)
+- [https://indianpornvideos.com](https://indianpornvideos.com)
+- [https://indiansexstories.net](https://indiansexstories.net)
+- [https://indowebster.com](https://indowebster.com)
+- [https://inews.gr](https://inews.gr)
+- [https://infibeam.com](https://infibeam.com)
+- [https://infolinks.com](https://infolinks.com)
+- [https://informationng.com](https://informationng.com)
+- [https://informe21.com](https://informe21.com)
+- [https://inkedmag.com](https://inkedmag.com)
+- [https://inlinkz.com](https://inlinkz.com)
+- [https://inquirer.net](https://inquirer.net)
+- [https://insight.ly](https://insight.ly)
+- [https://instantcheckmate.com](https://instantcheckmate.com)
+- [https://intercambiosvirtuales.org](https://intercambiosvirtuales.org)
+- [https://intereconomia.com](https://intereconomia.com)
+- [https://internethaber.com](https://internethaber.com)
+- [https://interpals.net](https://interpals.net)
+- [https://ioffer.com](https://ioffer.com)
+- [https://iol.co.za](https://iol.co.za)
+- [https://iphoneogram.com](https://iphoneogram.com)
+- [https://iphones.ru](https://iphones.ru)
+- [https://ipiccy.com](https://ipiccy.com)
+- [https://iptorrents.com](https://iptorrents.com)
+- [https://islammemo.cc](https://islammemo.cc)
+- [https://italiafilm.tv](https://italiafilm.tv)
+- [https://it-ebooks.info](https://it-ebooks.info)
+- [https://ittefaq.com.bd](https://ittefaq.com.bd)
+- [https://ixl.com](https://ixl.com)
+- [https://jagobd.com](https://jagobd.com)
+- [https://jang.com.pk](https://jang.com.pk)
+- [https://javascript.ru](https://javascript.ru)
+- [https://jeanmarcmorandini.com](https://jeanmarcmorandini.com)
+- [https://j.gs](https://j.gs)
+- [https://jne.co.id](https://jne.co.id)
+- [https://joemonster.org](https://joemonster.org)
+- [https://johnchow.com](https://johnchow.com)
+- [https://jonloomer.com](https://jonloomer.com)
+- [https://joomla.fr](https://joomla.fr)
+- [https://joomlart.com](https://joomlart.com)
+- [https://joomshaper.com](https://joomshaper.com)
+- [https://jotform.com](https://jotform.com)
+- [https://jquery.com](https://jquery.com)
+- [https://jquerymobile.com](https://jquerymobile.com)
+- [https://jqueryui.com](https://jqueryui.com)
+- [https://jusbrasil.com.br](https://jusbrasil.com.br)
+- [https://justunfollow.com](https://justunfollow.com)
+- [https://jutarnji.hr](https://jutarnji.hr)
+- [https://jvzoo.com](https://jvzoo.com)
+- [https://kaban.tv](https://kaban.tv)
+- [https://kalahari.com](https://kalahari.com)
+- [https://kanui.com.br](https://kanui.com.br)
+- [https://karnaval.com](https://karnaval.com)
+- [https://katproxy.com](https://katproxy.com)
+- [https://keep2share.cc](https://keep2share.cc)
+- [https://khabarfarsi.com](https://khabarfarsi.com)
+- [https://khmerload.com](https://khmerload.com)
+- [https://kingworldnews.com](https://kingworldnews.com)
+- [https://kinogo.net](https://kinogo.net)
+- [https://kinox.to](https://kinox.to)
+- [https://kinozal.tv](https://kinozal.tv)
+- [https://kleiderkreisel.de](https://kleiderkreisel.de)
+- [https://klicktel.de](https://klicktel.de)
+- [https://klix.ba](https://klix.ba)
+- [https://kn3.net](https://kn3.net)
+- [https://komikid.com](https://komikid.com)
+- [https://korabia.com](https://korabia.com)
+- [https://kora-online.tv](https://kora-online.tv)
+- [https://korben.info](https://korben.info)
+- [https://krucil.net](https://krucil.net)
+- [https://ktonanovenkogo.ru](https://ktonanovenkogo.ru)
+- [https://kure.tv](https://kure.tv)
+- [https://kwejk.pl](https://kwejk.pl)
+- [https://lankacnews.com](https://lankacnews.com)
+- [https://lapatilla.com](https://lapatilla.com)
+- [https://laravel.com](https://laravel.com)
+- [https://largeporntube.com](https://largeporntube.com)
+- [https://latribune.fr](https://latribune.fr)
+- [https://laughingsquid.com](https://laughingsquid.com)
+- [https://layalina.com](https://layalina.com)
+- [https://lebuteur.com](https://lebuteur.com)
+- [https://legiaodosherois.com.br](https://legiaodosherois.com.br)
+- [https://lenskart.com](https://lenskart.com)
+- [https://levelup.com](https://levelup.com)
+- [https://lewrockwell.com](https://lewrockwell.com)
+- [https://libertagia.com](https://libertagia.com)
+- [https://life.com.tw](https://life.com.tw)
+- [https://light-dark.net](https://light-dark.net)
+- [https://liilas.com](https://liilas.com)
+- [https://lik.cl](https://lik.cl)
+- [https://like4like.org](https://like4like.org)
+- [https://likesasap.com](https://likesasap.com)
+- [https://likes.com](https://likes.com)
+- [https://limetorrents.com](https://limetorrents.com)
+- [https://linkbucks.com](https://linkbucks.com)
+- [https://linkcollider.com](https://linkcollider.com)
+- [https://linkconnector.com](https://linkconnector.com)
+- [https://linkcrypt.ws](https://linkcrypt.ws)
+- [https://linksmanagement.com](https://linksmanagement.com)
+- [https://listcovery.com](https://listcovery.com)
+- [https://listverse.com](https://listverse.com)
+- [https://livememe.com](https://livememe.com)
+- [https://lolinez.com](https://lolinez.com)
+- [https://lolnexus.com](https://lolnexus.com)
+- [https://looti.net](https://looti.net)
+- [https://lumfile.com](https://lumfile.com)
+- [https://m5zn.com](https://m5zn.com)
+- [https://mafiashare.net](https://mafiashare.net)
+- [https://makeameme.org](https://makeameme.org)
+- [https://makeupandbeauty.com](https://makeupandbeauty.com)
+- [https://makezine.com](https://makezine.com)
+- [https://malaysiakini.com](https://malaysiakini.com)
+- [https://malwaretips.com](https://malwaretips.com)
+- [https://managewp.com](https://managewp.com)
+- [https://mangafox.me](https://mangafox.me)
+- [https://mangahere.com](https://mangahere.com)
+- [https://mangapanda.com](https://mangapanda.com)
+- [https://mangareader.net](https://mangareader.net)
+- [https://mangastream.com](https://mangastream.com)
+- [https://manoto1.com](https://manoto1.com)
+- [https://maplestage.com](https://maplestage.com)
+- [https://marathonbet.com](https://marathonbet.com)
+- [https://marketglory.com](https://marketglory.com)
+- [https://marunadanmalayali.com](https://marunadanmalayali.com)
+- [https://matchesfashion.com](https://matchesfashion.com)
+- [https://mathsisfun.com](https://mathsisfun.com)
+- [https://matthewwoodward.co.uk](https://matthewwoodward.co.uk)
+- [https://maultalk.com](https://maultalk.com)
+- [https://maxicep.com](https://maxicep.com)
+- [https://maxmind.com](https://maxmind.com)
+- [https://mazika2day.com](https://mazika2day.com)
+- [https://mediapart.fr (not proxified by CF and not affected)](https://mediapart.fr (not proxified by CF and not affected))
+- [https://mediatakeout.com](https://mediatakeout.com)
+- [https://mediatraffic.com](https://mediatraffic.com)
+- [https://medium.com](https://medium.com)
+- [https://megashare.info](https://megashare.info)
+- [https://members.webs.com](https://members.webs.com)
+- [https://memecenter.com](https://memecenter.com)
+- [https://memedad.com](https://memedad.com)
+- [https://meme-lol.com](https://meme-lol.com)
+- [https://menshealth.com](https://menshealth.com)
+- [https://merca20.com](https://merca20.com)
+- [https://mforos.com](https://mforos.com)
+- [https://mg.co.za](https://mg.co.za)
+- [https://micromaxinfo.com](https://micromaxinfo.com)
+- [https://microworkers.com](https://microworkers.com)
+- [https://mindmeister.com](https://mindmeister.com)
+- [https://mindtools.com](https://mindtools.com)
+- [https://minecraftforum.net](https://minecraftforum.net)
+- [https://minijuegos.com](https://minijuegos.com)
+- [https://minutebuzz.com](https://minutebuzz.com)
+- [https://mitbbs.com](https://mitbbs.com)
+- [https://mixcloud.com](https://mixcloud.com)
+- [https://mixedmartialarts.com](https://mixedmartialarts.com)
+- [https://mkyong.com](https://mkyong.com)
+- [https://mmo-champion.com](https://mmo-champion.com)
+- [https://mobafire.com](https://mobafire.com)
+- [https://mobilism.org](https://mobilism.org)
+- [https://moddb.com](https://moddb.com)
+- [https://moneymakergroup.com](https://moneymakergroup.com)
+- [https://monova.org](https://monova.org)
+- [https://moodle.org (no leaked data found in several search engine caches)](https://moodle.org (no leaked data found in several search engine caches))
+- [https://morguefile.com](https://morguefile.com)
+- [https://moveon.org](https://moveon.org)
+- [https://movie4k.to](https://movie4k.to)
+- [https://movie-blog.org](https://movie-blog.org)
+- [https://movieweb.com](https://movieweb.com)
+- [https://mp3skull.com](https://mp3skull.com)
+- [https://mp3xd.com](https://mp3xd.com)
+- [https://mstaml.com](https://mstaml.com)
+- [https://musavat.com](https://musavat.com)
+- [https://mybb.com](https://mybb.com)
+- [https://mybroadband.co.za](https://mybroadband.co.za)
+- [https://mydealz.de](https://mydealz.de)
+- [https://mydigitallife.info](https://mydigitallife.info)
+- [https://myegy.com](https://myegy.com)
+- [https://mygully.com](https://mygully.com)
+- [https://mylikes.com](https://mylikes.com)
+- [https://mymodernmet.com](https://mymodernmet.com)
+- [https://mynewsdesk.com](https://mynewsdesk.com)
+- [https://myorderbox.com](https://myorderbox.com)
+- [https://mysavings.com](https://mysavings.com)
+- [https://mysmartprice.com](https://mysmartprice.com)
+- [https://myvidster.com](https://myvidster.com)
+- [https://n4g.com](https://n4g.com)
+- [https://n4hr.com](https://n4hr.com)
+- [https://naijapals.com](https://naijapals.com)
+- [https://naij.com](https://naij.com)
+- [https://nairaland.com](https://nairaland.com)
+- [https://namepros.com](https://namepros.com)
+- [https://naosalvo.com.br](https://naosalvo.com.br)
+- [https://nationalreview.com](https://nationalreview.com)
+- [https://natunbarta.com](https://natunbarta.com)
+- [https://ncrypt.in](https://ncrypt.in)
+- [https://neswangy.net](https://neswangy.net)
+- [https://netbarg.com](https://netbarg.com)
+- [https://network-tools.com](https://network-tools.com)
+- [https://newgrounds.com](https://newgrounds.com)
+- [https://news.am](https://news.am)
+- [https://newtvworld.com](https://newtvworld.com)
+- [https://nexusmods.com](https://nexusmods.com)
+- [https://nguoiduatin.vn](https://nguoiduatin.vn)
+- [https://nicozon.net](https://nicozon.net)
+- [https://ninisite.com](https://ninisite.com)
+- [https://niusnews.com](https://niusnews.com)
+- [https://nmisr.com](https://nmisr.com)
+- [https://nodejs.org](https://nodejs.org)
+- [https://notdoppler.com](https://notdoppler.com)
+- [https://notebookcheck.net](https://notebookcheck.net)
+- [https://noticiaaldia.com](https://noticiaaldia.com)
+- [https://noticierodigital.com](https://noticierodigital.com)
+- [https://novafile.com](https://novafile.com)
+- [https://nowgamez.com](https://nowgamez.com)
+- [https://nrc.nl](https://nrc.nl)
+- [https://nuevoloquo.com](https://nuevoloquo.com)
+- [https://nulled.cc](https://nulled.cc)
+- [https://nullrefer.com](https://nullrefer.com)
+- [https://nur.kz](https://nur.kz)
+- [https://nyaa.se](https://nyaa.se)
+- [https://ocioso.com.br](https://ocioso.com.br)
+- [https://odesk.com](https://odesk.com)
+- [https://offervault.com](https://offervault.com)
+- [https://ofreegames.com](https://ofreegames.com)
+- [https://ojooo.com](https://ojooo.com)
+- [https://omegle.com](https://omegle.com)
+- [https://on.cc](https://on.cc)
+- [https://onedio.com](https://onedio.com)
+- [https://onlinekhabar.com](https://onlinekhabar.com)
+- [https://onlinesoccermanager.com](https://onlinesoccermanager.com)
+- [https://online-stopwatch.com](https://online-stopwatch.com)
+- [https://oodle.com](https://oodle.com)
+- [https://opencart.com](https://opencart.com)
+- [https://openclassrooms.com](https://openclassrooms.com)
+- [https://opensubtitles.org](https://opensubtitles.org)
+- [https://opinionlab.com](https://opinionlab.com)
+- [https://opposingviews.com](https://opposingviews.com)
+- [https://optimizepress.com](https://optimizepress.com)
+- [https://optionbit.com](https://optionbit.com)
+- [https://orgasmatrix.com](https://orgasmatrix.com)
+- [https://osdir.com](https://osdir.com)
+- [https://pagina12.com.ar](https://pagina12.com.ar)
+- [https://pandodaily.com](https://pandodaily.com)
+- [https://paperblog.com](https://paperblog.com)
+- [https://pastebin.com](https://pastebin.com)
+- [https://patient.co.uk](https://patient.co.uk)
+- [https://paxum.com](https://paxum.com)
+- [https://pbagora.com.br](https://pbagora.com.br)
+- [https://pcadvisor.co.uk](https://pcadvisor.co.uk)
+- [https://pccomponentes.com](https://pccomponentes.com)
+- [https://pcgames.de](https://pcgames.de)
+- [https://pcgameshardware.de](https://pcgameshardware.de)
+- [https://pcinpact.com](https://pcinpact.com)
+- [https://pdfonline.com](https://pdfonline.com)
+- [https://peb.pl](https://peb.pl)
+- [https://peerfly.com](https://peerfly.com)
+- [https://peliculas4.com](https://peliculas4.com)
+- [https://peliculasyonkis.com](https://peliculasyonkis.com)
+- [https://penguinvids.com](https://penguinvids.com)
+- [https://penny-arcade.com](https://penny-arcade.com)
+- [https://persiantools.com](https://persiantools.com)
+- [https://petapixel.com](https://petapixel.com)
+- [https://phimvang.com](https://phimvang.com)
+- [https://phpbb.com](https://phpbb.com)
+- [https://picstopin.com](https://picstopin.com)
+- [https://pijamasurf.com](https://pijamasurf.com)
+- [https://pik.ba](https://pik.ba)
+- [https://pimpandhost.com](https://pimpandhost.com)
+- [https://pingdom.com](https://pingdom.com)
+- [https://pirateproxy.net](https://pirateproxy.net)
+- [https://pirateproxy.se](https://pirateproxy.se)
+- [https://piratestreaming.tv](https://piratestreaming.tv)
+- [https://pixhost.org](https://pixhost.org)
+- [https://pjmedia.com](https://pjmedia.com)
+- [https://planetminecraft.com](https://planetminecraft.com)
+- [https://played.to](https://played.to)
+- [https://playvid.com](https://playvid.com)
+- [https://playxn.com](https://playxn.com)
+- [https://plugrush.com](https://plugrush.com)
+- [https://plus28.com](https://plus28.com)
+- [https://popcash.net](https://popcash.net)
+- [https://poringa.net](https://poringa.net)
+- [https://pornbb.org](https://pornbb.org)
+- [https://pornerbros.com](https://pornerbros.com)
+- [https://pornper.com](https://pornper.com)
+- [https://porntube.com](https://porntube.com)
+- [https://porntubevidz.com](https://porntubevidz.com)
+- [https://pornup.me](https://pornup.me)
+- [https://portalnet.cl](https://portalnet.cl)
+- [https://postplanner.com](https://postplanner.com)
+- [https://prefiles.com](https://prefiles.com)
+- [https://premiere.fr](https://premiere.fr)
+- [https://premiumwp.com](https://premiumwp.com)
+- [https://prevention.com](https://prevention.com)
+- [https://primewire.ag](https://primewire.ag)
+- [https://privatehomeclips.com](https://privatehomeclips.com)
+- [https://priyo.com](https://priyo.com)
+- [https://prlog.ru](https://prlog.ru)
+- [https://prntscr.com](https://prntscr.com)
+- [https://problogger.net](https://problogger.net)
+- [https://proboards.com](https://proboards.com)
+- [https://proceso.com.mx](https://proceso.com.mx)
+- [https://promiflash.de](https://promiflash.de)
+- [https://promptfile.com](https://promptfile.com)
+- [https://propakistani.pk](https://propakistani.pk)
+- [https://proprofs.com](https://proprofs.com)
+- [https://psychcentral.com](https://psychcentral.com)
+- [https://ptt.cc](https://ptt.cc)
+- [https://pubdirecte.com](https://pubdirecte.com)
+- [https://publika.az](https://publika.az)
+- [https://puls24.mk](https://puls24.mk)
+- [https://punchng.com](https://punchng.com)
+- [https://purpleporno.com](https://purpleporno.com)
+- [https://putlocker.bz](https://putlocker.bz)
+- [https://putlocker.com](https://putlocker.com)
+- [https://putlocker.ws](https://putlocker.ws)
+- [https://puu.sh](https://puu.sh)
+- [https://q8yat.com](https://q8yat.com)
+- [https://qafqazinfo.az](https://qafqazinfo.az)
+- [https://q-ask.com](https://q-ask.com)
+- [https://qatarliving.com](https://qatarliving.com)
+- [https://qaynar.info](https://qaynar.info)
+- [https://q.gs](https://q.gs)
+- [https://questionablecontent.net](https://questionablecontent.net)
+- [https://[quizlet.com] (http://quizlet.com)](https://[quizlet.com] (http://quizlet.com))
+- [https://r10.net](https://r10.net)
+- [https://racing-games.com](https://racing-games.com)
+- [https://radiojavan.com](https://radiojavan.com)
+- [https://rahnama.com](https://rahnama.com)
+- [https://random.org](https://random.org)
+- [https://ranker.com](https://ranker.com)
+- [https://rapgenius.com](https://rapgenius.com)
+- [https://rapradar.com](https://rapradar.com)
+- [https://rassd.com](https://rassd.com)
+- [https://raventools.com](https://raventools.com)
+- [https://rawstory.com](https://rawstory.com)
+- [https://reactiongifs.com](https://reactiongifs.com)
+- [https://readms.com](https://readms.com)
+- [https://realfarmacy.com](https://realfarmacy.com)
+- [https://realitatea.net](https://realitatea.net)
+- [https://redbubble.com](https://redbubble.com)
+- [https://re-direcciona.me](https://re-direcciona.me)
+- [https://reduxmediia.com](https://reduxmediia.com)
+- [https://relink.us](https://relink.us)
+- [https://resellerclub.com](https://resellerclub.com)
+- [https://residentadvisor.net](https://residentadvisor.net)
+- [https://rghost.ru](https://rghost.ru)
+- [https://ripoffreport.com](https://ripoffreport.com)
+- [https://robtex.com](https://robtex.com)
+- [https://rockpapershotgun.com](https://rockpapershotgun.com)
+- [https://roro44.com](https://roro44.com)
+- [https://rosbalt.ru](https://rosbalt.ru)
+- [https://rozee.pk](https://rozee.pk)
+- [https://rubias19.com](https://rubias19.com)
+- [https://runetki.com](https://runetki.com)
+- [https://runetki.tv](https://runetki.tv)
+- [https://runnersworld.com](https://runnersworld.com)
+- [https://rus.ec](https://rus.ec)
+- [https://ryushare.com](https://ryushare.com)
+- [https://sa.ae](https://sa.ae)
+- [https://saaid.net](https://saaid.net)
+- [https://sabq.org](https://sabq.org)
+- [https://sadistic.pl](https://sadistic.pl)
+- [https://saharareporters.com](https://saharareporters.com)
+- [https://samanyoluhaber.com](https://samanyoluhaber.com)
+- [https://sankakucomplex.com](https://sankakucomplex.com)
+- [https://say7.info](https://say7.info)
+- [https://sayidaty.net](https://sayidaty.net)
+- [https://scamadviser.com](https://scamadviser.com)
+- [https://scriptmafia.org](https://scriptmafia.org)
+- [https://sdpnoticias.com](https://sdpnoticias.com)
+- [https://searchengines.ru](https://searchengines.ru)
+- [https://searchere.info](https://searchere.info)
+- [https://searchquotes.com](https://searchquotes.com)
+- [https://sedty.com](https://sedty.com)
+- [https://seemorgh.com](https://seemorgh.com)
+- [https://seenive.com](https://seenive.com)
+- [https://semprot.com](https://semprot.com)
+- [https://seneweb.com](https://seneweb.com)
+- [https://seozenlaunch.com](https://seozenlaunch.com)
+- [https://sergey-mavrodi.com](https://sergey-mavrodi.com)
+- [https://sergeymavrodi.com](https://sergeymavrodi.com)
+- [https://sergey-mavrodi-mmm.net](https://sergey-mavrodi-mmm.net)
+- [https://serials.ws](https://serials.ws)
+- [https://serienjunkies.org](https://serienjunkies.org)
+- [https://series.ly](https://series.ly)
+- [https://seriesyonkis.com](https://seriesyonkis.com)
+- [https://seriouseats.com](https://seriouseats.com)
+- [https://serviporno.com](https://serviporno.com)
+- [https://seslisozluk.net](https://seslisozluk.net)
+- [https://sethgodin.typepad.com](https://sethgodin.typepad.com)
+- [https://sexytube.me](https://sexytube.me)
+- [https://shahvani.com](https://shahvani.com)
+- [https://shareasale.com](https://shareasale.com)
+- [https://share-links.biz](https://share-links.biz)
+- [https://share-online.biz](https://share-online.biz)
+- [https://sheknows.com](https://sheknows.com)
+- [https://shiftdelete.net](https://shiftdelete.net)
+- [https://shoghlanty.com](https://shoghlanty.com)
+- [https://shorouknews.com](https://shorouknews.com)
+- [https://shortp.com](https://shortp.com)
+- [https://shoutmeloud.com](https://shoutmeloud.com)
+- [https://sia.az](https://sia.az)
+- [https://siasat.pk](https://siasat.pk)
+- [https://siliconrus.com](https://siliconrus.com)
+- [https://simplyrecipes.com](https://simplyrecipes.com)
+- [https://sinembargo.mx](https://sinembargo.mx)
+- [https://sipse.com](https://sipse.com)
+- [https://sitedeals.nl](https://sitedeals.nl)
+- [https://sitetalk.com](https://sitetalk.com)
+- [https://siyahgazete.com](https://siyahgazete.com)
+- [https://skidrowcrack.com](https://skidrowcrack.com)
+- [https://skidrowgames.net](https://skidrowgames.net)
+- [https://skladchik.com](https://skladchik.com)
+- [https://skyscrapercity.com](https://skyscrapercity.com)
+- [https://slaati.com](https://slaati.com)
+- [https://slashfilm.com](https://slashfilm.com)
+- [https://slate.fr](https://slate.fr)
+- [https://slimspots.com](https://slimspots.com)
+- [https://sm3na.com](https://sm3na.com)
+- [https://smallbiztrends.com](https://smallbiztrends.com)
+- [https://smallseotools.com](https://smallseotools.com)
+- [https://smartinsights.com](https://smartinsights.com)
+- [https://smartpassiveincome.com](https://smartpassiveincome.com)
+- [https://smosh.com](https://smosh.com)
+- [https://snapwidget.com](https://snapwidget.com)
+- [https://soccermanager.com](https://soccermanager.com)
+- [https://soccersuck.com](https://soccersuck.com)
+- [https://socialadr.com](https://socialadr.com)
+- [https://socialblade.com](https://socialblade.com)
+- [https://socialmediabar.com](https://socialmediabar.com)
+- [https://socialmediaexaminer.com](https://socialmediaexaminer.com)
+- [https://socialmediatoday.com](https://socialmediatoday.com)
+- [https://socialtriggers.com](https://socialtriggers.com)
+- [https://softarchive.net](https://softarchive.net)
+- [https://solidtrustpay.com](https://solidtrustpay.com)
+- [https://someecards.com](https://someecards.com)
+- [https://somethingawful.com](https://somethingawful.com)
+- [https://somuch.com](https://somuch.com)
+- [https://songlyrics.com](https://songlyrics.com)
+- [https://songspk.cc](https://songspk.cc)
+- [https://songspk.name](https://songspk.name)
+- [https://soompi.com](https://soompi.com)
+- [https://sooperarticles.com](https://sooperarticles.com)
+- [https://sopitas.com](https://sopitas.com)
+- [https://source-wave.com](https://source-wave.com)
+- [https://sourtimes.org](https://sourtimes.org)
+- [https://spankbang.com](https://spankbang.com)
+- [https://spi0n.com](https://spi0n.com)
+- [https://spin.com](https://spin.com)
+- [https://sportcategory.com](https://sportcategory.com)
+- [https://sportdog.gr](https://sportdog.gr)
+- [https://spotscenered.info](https://spotscenered.info)
+- [https://sprashivai.ru](https://sprashivai.ru)
+- [https://ssense.com](https://ssense.com)
+- [https://stadelahly.com](https://stadelahly.com)
+- [https://stadt-bremerhaven.de](https://stadt-bremerhaven.de)
+- [https://stafaband.info](https://stafaband.info)
+- [https://stagram.com](https://stagram.com)
+- [https://standardmedia.co.ke](https://standardmedia.co.ke)
+- [https://stansberryresearch.com](https://stansberryresearch.com)
+- [https://stargazete.com](https://stargazete.com)
+- [https://starsue.net](https://starsue.net)
+- [https://statcounter.com](https://statcounter.com)
+- [https://statmyweb.com](https://statmyweb.com)
+- [https://statscrop.com](https://statscrop.com)
+- [https://stepashka.com](https://stepashka.com)
+- [https://stereogum.com](https://stereogum.com)
+- [https://stocktwits.com](https://stocktwits.com)
+- [https://stopforumspam.com](https://stopforumspam.com)
+- [https://storenvy.com](https://storenvy.com)
+- [https://streamhunter.eu](https://streamhunter.eu)
+- [https://stream-tv.me](https://stream-tv.me)
+- [https://stuffgate.com](https://stuffgate.com)
+- [https://submissionwebdirectory.com](https://submissionwebdirectory.com)
+- [https://subscene.com](https://subscene.com)
+- [https://subtitulos.es](https://subtitulos.es)
+- [https://sudaneseonline.com](https://sudaneseonline.com)
+- [https://sunmaker.com](https://sunmaker.com)
+- [https://super.ae](https://super.ae)
+- [https://surveygizmo.com](https://surveygizmo.com)
+- [https://swalif.net](https://swalif.net)
+- [https://systweak.com](https://systweak.com)
+- [https://t411.me](https://t411.me)
+- [https://talkarcades.com](https://talkarcades.com)
+- [https://tamindir.com](https://tamindir.com)
+- [https://taringa.net](https://taringa.net)
+- [https://taxheaven.gr](https://taxheaven.gr)
+- [https://te3p.com](https://te3p.com)
+- [https://teamliquid.net (not proxied by CF and not affected)](https://teamliquid.net (not proxied by CF and not affected))
+- [https://techdirt.com](https://techdirt.com)
+- [https://techinasia.com](https://techinasia.com)
+- [https://tech-wd.com](https://tech-wd.com)
+- [https://tecmundo.com.br](https://tecmundo.com.br)
+- [https://teespring.com](https://teespring.com)
+- [https://telelistas.net](https://telelistas.net)
+- [https://template-help.com](https://template-help.com)
+- [https://templatemonster.com](https://templatemonster.com)
+- [https://tfl.gov.uk](https://tfl.gov.uk)
+- [https://tgju.org](https://tgju.org)
+- [https://th3professional.com](https://th3professional.com)
+- [https://thaqafnafsak.com](https://thaqafnafsak.com)
+- [https://thebump.com](https://thebump.com)
+- [https://the-bux.net](https://the-bux.net)
+- [https://thedailybeast.com](https://thedailybeast.com)
+- [https://theelevationgroup.com](https://theelevationgroup.com)
+- [https://thefrisky.com](https://thefrisky.com)
+- [https://thehackernews.com](https://thehackernews.com)
+- [https://thejournal.ie](https://thejournal.ie)
+- [https://theladbible.com](https://theladbible.com)
+- [https://themalaysianinsider.com](https://themalaysianinsider.com)
+- [https://theme-fusion.com](https://theme-fusion.com)
+- [https://theme-junkie.com](https://theme-junkie.com)
+- [https://themelock.com](https://themelock.com)
+- [https://themobileindian.com](https://themobileindian.com)
+- [https://thenationonlineng.net](https://thenationonlineng.net)
+- [https://thenews.com.pk](https://thenews.com.pk)
+- [https://thenewstribe.com](https://thenewstribe.com)
+- [https://thepoke.co.uk](https://thepoke.co.uk)
+- [https://theregister.co.uk](https://theregister.co.uk)
+- [https://thestudentroom.co.uk](https://thestudentroom.co.uk)
+- [https://thesuperficial.com](https://thesuperficial.com)
+- [https://thethao247.vn](https://thethao247.vn)
+- [https://thetoptens.com](https://thetoptens.com)
+- [https://theync.com](https://theync.com)
+- [https://thingiverse.com](https://thingiverse.com)
+- [https://thisav.com](https://thisav.com)
+- [https://thisoldhouse.com](https://thisoldhouse.com)
+- [https://tickld.com](https://tickld.com)
+- [https://tielabs.com](https://tielabs.com)
+- [https://tineye.com](https://tineye.com)
+- [https://tipsandtricks-hq.com](https://tipsandtricks-hq.com)
+- [https://tmart.com](https://tmart.com)
+- [https://tn.com.ar](https://tn.com.ar)
+- [https://tnr.com](https://tnr.com)
+- [https://todayhumor.co.kr](https://todayhumor.co.kr)
+- [https://tomshw.it](https://tomshw.it)
+- [https://top-channel.tv](https://top-channel.tv)
+- [https://topdocumentaryfilms.com](https://topdocumentaryfilms.com)
+- [https://topix.com](https://topix.com)
+- [https://toprankblog.com](https://toprankblog.com)
+- [https://torlock.com](https://torlock.com)
+- [https://torrentbutler.eu](https://torrentbutler.eu)
+- [https://torrentcrazy.com](https://torrentcrazy.com)
+- [https://torrentday.com](https://torrentday.com)
+- [https://torrentdownloads.me](https://torrentdownloads.me)
+- [https://torrentfreak.com](https://torrentfreak.com)
+- [https://torrenthound.com](https://torrenthound.com)
+- [https://torrentleech.org](https://torrentleech.org)
+- [https://torrentreactor.net](https://torrentreactor.net)
+- [https://torrents.net](https://torrents.net)
+- [https://townhall.com](https://townhall.com)
+- [https://tracklab101.com](https://tracklab101.com)
+- [https://tradetracker.com](https://tradetracker.com)
+- [https://trafficbroker.com](https://trafficbroker.com)
+- [https://trafficestimate.com](https://trafficestimate.com)
+- [https://trafficfactory.biz](https://trafficfactory.biz)
+- [https://trafficg.com](https://trafficg.com)
+- [https://traidnt.net](https://traidnt.net)
+- [https://tribune.com.pk](https://tribune.com.pk)
+- [https://trndsys.co](https://trndsys.co)
+- [https://trueactivist.com](https://trueactivist.com)
+- [https://truthaboutabs.com](https://truthaboutabs.com)
+- [https://tubeplus.me](https://tubeplus.me)
+- [https://tukif.com](https://tukif.com)
+- [https://tunisia-sat.com](https://tunisia-sat.com)
+- [https://tureng.com](https://tureng.com)
+- [https://tutorialzine.com](https://tutorialzine.com)
+- [https://tutsplus.com](https://tutsplus.com)
+- [https://tuvaro.com](https://tuvaro.com)
+- [https://tvboxnow.com](https://tvboxnow.com)
+- [https://tvrage.com](https://tvrage.com)
+- [https://tv-series.me](https://tv-series.me)
+- [https://tw116.com](https://tw116.com)
+- [https://twentytwowords.com](https://twentytwowords.com)
+- [https://twitchy.com](https://twitchy.com)
+- [https://typepad.com](https://typepad.com)
+- [https://uber.com](https://uber.com)
+- [https://udemy.com](https://udemy.com)
+- [https://uludagsozluk.com](https://uludagsozluk.com)
+- [https://unitezz.com](https://unitezz.com)
+- [https://uploadboy.com](https://uploadboy.com)
+- [https://uppit.com](https://uppit.com)
+- [https://uptobox.com](https://uptobox.com)
+- [https://usingenglish.com](https://usingenglish.com)
+- [https://utrace.de](https://utrace.de)
+- [https://utusan.com.my](https://utusan.com.my)
+- [https://uwants.com](https://uwants.com)
+- [https://vanguardngr.com](https://vanguardngr.com)
+- [https://vavel.com](https://vavel.com)
+- [https://vcommission.com](https://vcommission.com)
+- [https://vecernji.hr](https://vecernji.hr)
+- [https://vecteezy.com](https://vecteezy.com)
+- [https://vetogate.com](https://vetogate.com)
+- [https://vid2c.com](https://vid2c.com)
+- [https://videarn.com](https://videarn.com)
+- [https://video.az](https://video.az)
+- [https://videomega.tv](https://videomega.tv)
+- [https://videopremium.tv](https://videopremium.tv)
+- [https://videoyoum7.com](https://videoyoum7.com)
+- [https://vidspot.net](https://vidspot.net)
+- [https://viralnova.com](https://viralnova.com)
+- [https://vivas.fi](https://vivas.fi)
+- [https://vladtv.com](https://vladtv.com)
+- [https://vodly.to](https://vodly.to)
+- [https://vodonet.net](https://vodonet.net)
+- [https://voetbalzone.nl](https://voetbalzone.nl)
+- [https://vozforums.com](https://vozforums.com)
+- [https://vr-zone.com](https://vr-zone.com)
+- [https://w3resource.com](https://w3resource.com)
+- [https://w4.com](https://w4.com)
+- [https://warez-bb.org](https://warez-bb.org)
+- [https://warriorplus.com](https://warriorplus.com)
+- [https://waseet.net](https://waseet.net)
+- [https://washingtontimes.com](https://washingtontimes.com)
+- [https://watch32.com](https://watch32.com)
+- [https://watchcartoononline.com](https://watchcartoononline.com)
+- [https://watchfreemovies.ch](https://watchfreemovies.ch)
+- [https://watchseries.lt](https://watchseries.lt)
+- [https://watchseries-online.eu](https://watchseries-online.eu)
+- [https://wattpad.com](https://wattpad.com)
+- [https://waveapps.com](https://waveapps.com)
+- [https://wayn.com](https://wayn.com)
+- [https://wearehairy.com](https://wearehairy.com)
+- [https://webconfs.com](https://webconfs.com)
+- [https://webdesignerdepot.com](https://webdesignerdepot.com)
+- [https://webdesignledger.com](https://webdesignledger.com)
+- [https://webgains.com](https://webgains.com)
+- [https://webhostbox.net](https://webhostbox.net)
+- [https://webhostingtalk.com](https://webhostingtalk.com)
+- [https://webmastersitesi.com](https://webmastersitesi.com)
+- [https://web-opinions.com](https://web-opinions.com)
+- [https://webresourcesdepot.com](https://webresourcesdepot.com)
+- [https://webs.com](https://webs.com)
+- [https://wed168.com.tw](https://wed168.com.tw)
+- [https://wehkamp.nl](https://wehkamp.nl)
+- [https://weknowmemes.com](https://weknowmemes.com)
+- [https://weloveshopping.com](https://weloveshopping.com)
+- [https://whatculture.com](https://whatculture.com)
+- [https://whatismyip.com](https://whatismyip.com)
+- [https://whatsmyserp.com](https://whatsmyserp.com)
+- [https://whirlpool.net.au](https://whirlpool.net.au)
+- [https://whocallsme.com](https://whocallsme.com)
+- [https://whoishostingthis.com](https://whoishostingthis.com)
+- [https://whoismind.com](https://whoismind.com)
+- [https://wikiwiki.jp](https://wikiwiki.jp)
+- [https://wiziq.com](https://wiziq.com)
+- [https://wiziwig.tv](https://wiziwig.tv)
+- [https://wjunction.com](https://wjunction.com)
+- [https://wmmail.ru](https://wmmail.ru)
+- [https://womenshealthmag.com](https://womenshealthmag.com)
+- [https://worldtimebuddy.com](https://worldtimebuddy.com)
+- [https://worldtimeserver.com](https://worldtimeserver.com)
+- [https://worthofweb.com](https://worthofweb.com)
+- [https://wpcentral.com](https://wpcentral.com)
+- [https://wpengine.com](https://wpengine.com)
+- [https://wphub.com](https://wphub.com)
+- [https://wplocker.com](https://wplocker.com)
+- [https://wpmu.org](https://wpmu.org)
+- [https://x-art.com](https://x-art.com)
+- [https://xat.com](https://xat.com)
+- [https://xbmc.org](https://xbmc.org)
+- [https://xenforo.com](https://xenforo.com)
+- [https://xxxbunker.com](https://xxxbunker.com)
+- [https://xxxkinky.com](https://xxxkinky.com)
+- [https://yam.com](https://yam.com)
+- [https://yazete.com](https://yazete.com)
+- [https://yepi.com](https://yepi.com)
+- [https://yeppudaa.com](https://yeppudaa.com)
+- [https://yeslibertin.com](https://yeslibertin.com)
+- [https://yola.com](https://yola.com)
+- [https://yoo7.com](https://yoo7.com)
+- [https://yougetpaidfast.com](https://yougetpaidfast.com)
+- [https://yougetsignal.com](https://yougetsignal.com)
+- [https://youm7.com](https://youm7.com)
+- [https://yourbittorrent.com](https://yourbittorrent.com)
+- [https://youtradefx.com](https://youtradefx.com)
+- [https://youtube-mp3.org](https://youtube-mp3.org)
+- [https://yucatan.com.mx](https://yucatan.com.mx)
+- [https://yuku.com](https://yuku.com)
+- [https://z6.com](https://z6.com)
+- [https://zakon.kz](https://zakon.kz)
+- [https://zalukaj.tv](https://zalukaj.tv)
+- [https://zamalekfans.com](https://zamalekfans.com)
+- [https://zaman.com.tr](https://zaman.com.tr)
+- [https://zemanta.com](https://zemanta.com)
+- [https://zemtv.com](https://zemtv.com)
+- [https://zenhabits.net](https://zenhabits.net)
+- [https://zero10.net](https://zero10.net)
+- [https://zetaboards.com](https://zetaboards.com)
+- [https://ziprecruiter.com](https://ziprecruiter.com)
+- [https://zone-telechargement.com](https://zone-telechargement.com)
+- [https://zoominfo.com](https://zoominfo.com)
+- [https://zoomit.ir](https://zoomit.ir)
+- [https://zurb.com](https://zurb.com)
+- [https://zwaar.net](https://zwaar.net)
